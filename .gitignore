@@ -1,0 +1,15 @@
+# Local editor settings
+.vscode/
+
+# Pre-merge case study source: holds the un-split Data Pack with every market's
+# cost line, which teams are not meant to see
+case_study/
+
+# Lecture deck: ~499 MB, over GitHub's 100 MB per-file limit
+AI-and-GenAI-for-Management_Short.pptx
+
+# OS / Office cruft
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
