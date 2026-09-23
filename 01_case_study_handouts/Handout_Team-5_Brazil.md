@@ -32,11 +32,11 @@ Tool for today: **Microsoft 365 Copilot Chat** at `https://m365.cloud.microsoft/
 | **Corte Aurelia**                          | Chianti Classico Annata DOCG         | \~90,000 btl | €7.50           |
 | **Vigna del Sasso**                        | Chianti Classico Riserva DOCG        | \~40,000 btl | €12.00          |
 | **Aurelia**                                | Chianti Classico Gran Selezione DOCG | \~15,000 btl | €20.00          |
-| Rosato Toscana IGP · Sangiovese/Merlot IGT | Entry / experimental                 | small        | not exported    |
+| Rosato Toscana IGP · Sangiovese/Merlot IGT | Entry / experimental                 | \~35,000 btl | Italy only      |
 
 **Story assets:** 70+ years of family heritage · restored 16th-century farmhouse · 8-room agriturismo · \~4,000 wine-tourism visitors per year · hand-harvest · native yeasts on the top wines · organic conversion.
 
-**Current sales mix:** Italy 55% (HoReCa and enoteche) · EU 30% (Germany, Switzerland, Benelux) · Rest of world 15% (occasional US containers through a small broker).
+**Current sales mix (by volume):** Italy 55% (HoReCa and enoteche) · Europe 30% (Germany, Switzerland, Benelux) · Rest of world 15% (one-off containers to the US and Asia through traders, with no ongoing importer).
 
 **The situation:** domestic growth has plateaued. The family has decided to invest in **one priority export market** and build it properly, rather than scattering samples everywhere. Corte Aurelia has no market-specific packaging, no localized marketing, no in-market PR and no critic ratings in that market.
 
@@ -92,7 +92,7 @@ Not hints, just the questions your pitch has to survive. Answer them with number
 
 1. 55% of landed value is charged **before** the trade chain marks up on top of it. **Work the ladder all the way to the shelf** — then say honestly who is standing next to you at that price.
 2. Chile, Argentina and Portugal win on price and proximity, and you are forbidden from discounting. **So what exactly are you selling**, and to whom, at a price the tax stack forces on you?
-3. The tax stack hits every wine, but not equally as a share of shelf price. **Does it change which wine you lead with** compared with the answer you would have given for any other market?
+3. The 55% is a flat percentage, so it lifts every wine's shelf price by the same proportion. **So what does change your choice of wine**: the percentage, or the absolute price in BRL each wine lands at, and who is already standing at that price?
 
 ***
 
@@ -118,9 +118,17 @@ These are Corte Aurelia's internal planning figures, agreed with the CFO. **Use 
 | Year-1 market-entry budget (fixed, one-off)     | **€120,000**         |
 | Case size                                       | 12 bottles           |
 
-### 4.3 Your cost line — BRAZIL
+**Stock available for the new market in Year 1.** Everything else is already committed to existing customers. These bottles are freed by moving volume out of lower-margin Italian accounts, and they are the hard ceiling for your plan.
 
-Figures are per bottle unless stated.
+| Wine           | Available in Year 1 |
+| -------------- | ------------------- |
+| Annata         | 30,000 btl          |
+| Riserva        | 12,000 btl          |
+| Gran Selezione | 4,000 btl           |
+
+### 4.3 Your market's price-ladder inputs: BRAZIL
+
+Figures are per bottle unless stated. **None of these is the estate's cost.** Under our terms the importer pays freight, duty and excise and passes them down the chain, so they do not reduce your contribution per bottle. They decide the shelf price.
 
 | Item                      | Brazil                                    |
 | ------------------------- | ----------------------------------------- |
@@ -129,7 +137,7 @@ Figures are per bottle unless stated.
 | **Excise / alcohol tax**  | included in the 55% above                 |
 | **Consumer tax on shelf** | included in the 55% above                 |
 
-*Duty and tax percentages apply to the landed value, meaning ex-cellar price plus freight. The trade chain in 4.4 then marks up on top of the taxed figure — make sure your ladder does it in that order.*
+*The 55% applies to the landed value, meaning ex-cellar price plus freight. The trade chain in 4.4 then marks up on top of the taxed figure, so make sure your ladder does it in that order. There is no separate consumer-tax step at the end: it is already inside the 55%.*
 
 ### 4.4 The trade chain (same in every market)
 
@@ -213,7 +221,7 @@ Section 5 says *what* to hand in. This section says what "finished" looks like, 
 These have to be in there. If a slide does not eventually lead to one of them, cut the slide.
 
 1. **Which wine or wines, through which channel** — one sentence, no hedging.
-2. **Contribution per bottle** for each wine you lead with, after the Brazil export cost line.
+2. **Contribution per bottle** for each wine you lead with: ex-cellar price minus variable cost minus the €0.15 export cost. It is the same in every market, because the importer pays freight and taxes.
 3. **Year-1 volume, total contribution, and the net result against the €120,000.**
 4. **Break-even volume**, and how much margin for error that leaves you.
 5. **One early-warning indicator** that would tell Elena it is failing *before* the financials do.

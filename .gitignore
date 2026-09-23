@@ -1,8 +1,8 @@
 # Local editor settings
 .vscode/
 
-# Pre-merge case study source: holds the un-split Data Pack with every market's
-# cost line, which teams are not meant to see
+# Pre-merge case study source, now stale: superseded by 01_case_study_handouts/.
+# Kept locally for reference only; edit the handouts, not this folder
 case_study/
 
 # Lecture deck: ~499 MB, over GitHub's 100 MB per-file limit

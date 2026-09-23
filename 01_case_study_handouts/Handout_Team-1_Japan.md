@@ -32,11 +32,11 @@ Tool for today: **Microsoft 365 Copilot Chat** at `https://m365.cloud.microsoft/
 | **Corte Aurelia**                          | Chianti Classico Annata DOCG         | \~90,000 btl | €7.50           |
 | **Vigna del Sasso**                        | Chianti Classico Riserva DOCG        | \~40,000 btl | €12.00          |
 | **Aurelia**                                | Chianti Classico Gran Selezione DOCG | \~15,000 btl | €20.00          |
-| Rosato Toscana IGP · Sangiovese/Merlot IGT | Entry / experimental                 | small        | not exported    |
+| Rosato Toscana IGP · Sangiovese/Merlot IGT | Entry / experimental                 | \~35,000 btl | Italy only      |
 
 **Story assets:** 70+ years of family heritage · restored 16th-century farmhouse · 8-room agriturismo · \~4,000 wine-tourism visitors per year · hand-harvest · native yeasts on the top wines · organic conversion.
 
-**Current sales mix:** Italy 55% (HoReCa and enoteche) · EU 30% (Germany, Switzerland, Benelux) · Rest of world 15% (occasional US containers through a small broker).
+**Current sales mix (by volume):** Italy 55% (HoReCa and enoteche) · Europe 30% (Germany, Switzerland, Benelux) · Rest of world 15% (one-off containers to the US and Asia through traders, with no ongoing importer).
 
 **The situation:** domestic growth has plateaued. The family has decided to invest in **one priority export market** and build it properly, rather than scattering samples everywhere. Corte Aurelia has no market-specific packaging, no localized marketing, no in-market PR and no critic ratings in that market.
 
@@ -95,7 +95,7 @@ How you get there is up to you. What you hand in is in section 5.
 Not hints, just the questions your pitch has to survive. Answer them with numbers from section 4.
 
 1. Zero import duty is a real structural advantage over New World competitors — **where does that advantage actually land?** In your margin, in the importer's, or on the shelf price?
-2. Gifting and sommelier on-trade are two different businesses with two different price logics. **Are you building one plan or two**, and can the production ceilings in section 1 support both?
+2. Gifting and sommelier on-trade are two different businesses with two different price logics. **Are you building one plan or two**, and can the stock available in section 4.2 support both?
 3. Tuscany is already well represented in Japan. **What is the one thing a Tokyo importer cannot already get** from an estate they already stock?
 
 ***
@@ -122,9 +122,17 @@ These are Corte Aurelia's internal planning figures, agreed with the CFO. **Use 
 | Year-1 market-entry budget (fixed, one-off)     | **€120,000**         |
 | Case size                                       | 12 bottles           |
 
-### 4.3 Your cost line — JAPAN
+**Stock available for the new market in Year 1.** Everything else is already committed to existing customers. These bottles are freed by moving volume out of lower-margin Italian accounts, and they are the hard ceiling for your plan.
 
-Figures are per bottle unless stated.
+| Wine           | Available in Year 1 |
+| -------------- | ------------------- |
+| Annata         | 30,000 btl          |
+| Riserva        | 12,000 btl          |
+| Gran Selezione | 4,000 btl           |
+
+### 4.3 Your market's price-ladder inputs: JAPAN
+
+Figures are per bottle unless stated. **None of these is the estate's cost.** Under our terms the importer pays freight, duty and excise and passes them down the chain, so they do not reduce your contribution per bottle. They decide the shelf price.
 
 | Item                      | Japan                 |
 | ------------------------- | --------------------- |
@@ -133,7 +141,7 @@ Figures are per bottle unless stated.
 | **Excise / alcohol tax**  | **€0.45**             |
 | **Consumer tax on shelf** | **10%**               |
 
-*Duty and tax percentages apply to the landed value, meaning ex-cellar price plus freight.*
+*Import duty percentages apply to the landed value, meaning ex-cellar price plus freight. The 10% consumption tax is charged last, on the retail price, after every trade mark-up.*
 
 ### 4.4 The trade chain (same in every market)
 
@@ -215,7 +223,7 @@ Section 5 says *what* to hand in. This section says what "finished" looks like, 
 These have to be in there. If a slide does not eventually lead to one of them, cut the slide.
 
 1. **Which wine or wines, through which channel** — one sentence, no hedging.
-2. **Contribution per bottle** for each wine you lead with, after the Japan export cost line.
+2. **Contribution per bottle** for each wine you lead with: ex-cellar price minus variable cost minus the €0.15 export cost. It is the same in every market, because the importer pays freight and taxes.
 3. **Year-1 volume, total contribution, and the net result against the €120,000.**
 4. **Break-even volume**, and how much margin for error that leaves you.
 5. **One early-warning indicator** that would tell Elena it is failing *before* the financials do.

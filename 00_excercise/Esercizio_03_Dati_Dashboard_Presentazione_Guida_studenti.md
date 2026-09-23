@@ -80,8 +80,8 @@ e questa guida aperta.
 | 09:00-12:00 | Prompt 3, presentazione. |
 | 12:00-15:00 | Controllo con la checklist e condivisione in aula. |
 
-**Al minuto 12 fermate le generazioni.** Meglio tre risultati controllati
-che quattro non verificati.
+**Al minuto 12 fermate le generazioni.** Meglio due risultati controllati
+che tre non verificati.
 
 Se un passaggio non riesce entro il tempo previsto, proseguite con il
 materiale che avete: l'esercizio funziona anche con due fasi su tre.
@@ -215,8 +215,7 @@ headings that state the finding, not just the topic. Do not repeat the
 executive summary at the end.
 ```
 
-Leggete **prima l'executive summary**. La persona che controlla i dati
-verifica due numeri a campione: il totale delle recensioni e il numero
+Leggete **prima l'executive summary**. Verificate due numeri a campione: il totale delle recensioni e il numero
 di recensioni della regione con piu' vini. Se un numero non torna,
 annotatelo e proseguite: e' un risultato dell'esercizio, non un errore vostro.
 
@@ -299,7 +298,7 @@ Rules:
 - Everything in Italian.
 - Every figure on a slide must come from the attached CSV.
 - Each slide title must state the finding, not the topic. Write
-  "Il Piemonte ottiene i punteggi medi piu' alti", not "Analisi regionale".
+  "[Regione X] ottiene i punteggi medi piu' alti", not "Analisi regionale".
 - Maximum five bullet points per slide, one line each.
 - Include speaker notes for each slide, explaining what to say and which
   figure supports it.

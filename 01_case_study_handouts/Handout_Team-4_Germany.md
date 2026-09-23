@@ -34,11 +34,11 @@ Tool for today: **Microsoft 365 Copilot Chat** at `https://m365.cloud.microsoft/
 | **Corte Aurelia**                          | Chianti Classico Annata DOCG         | \~90,000 btl | €7.50           |
 | **Vigna del Sasso**                        | Chianti Classico Riserva DOCG        | \~40,000 btl | €12.00          |
 | **Aurelia**                                | Chianti Classico Gran Selezione DOCG | \~15,000 btl | €20.00          |
-| Rosato Toscana IGP · Sangiovese/Merlot IGT | Entry / experimental                 | small        | not exported    |
+| Rosato Toscana IGP · Sangiovese/Merlot IGT | Entry / experimental                 | \~35,000 btl | Italy only      |
 
 **Story assets:** 70+ years of family heritage · restored 16th-century farmhouse · 8-room agriturismo · \~4,000 wine-tourism visitors per year · hand-harvest · native yeasts on the top wines · organic conversion.
 
-**Current sales mix:** Italy 55% (HoReCa and enoteche) · EU 30% (Germany, Switzerland, Benelux) · Rest of world 15% (occasional US containers through a small broker).
+**Current sales mix (by volume):** Italy 55% (HoReCa and enoteche) · Europe 30% (Germany, Switzerland, Benelux) · Rest of world 15% (one-off containers to the US and Asia through traders, with no ongoing importer).
 
 **The situation:** domestic growth has plateaued. The family has decided to invest in **one priority export market** and build it properly, rather than scattering samples everywhere. Corte Aurelia has no market-specific packaging, no localized marketing, no in-market PR and no critic ratings in that market.
 
@@ -68,7 +68,7 @@ How you get there is up to you. What you hand in is in section 5.
 
 ## 3. Your market: GERMANY 🇩🇪
 
-**Why Germany.** Your task here is different from everyone else's. Corte Aurelia **already sells roughly 15,000 bottles a year in Germany through a broker**, at low margin and with no control. You are not entering a market, you are **taking one back and premiumizing it**. Germany is Europe's largest wine importer by volume, the organic "Bio" segment is huge and trusted, and EU logistics mean no tariffs and no customs friction.
+**Why Germany.** Your task here is different from everyone else's. Corte Aurelia **already sells roughly 15,000 bottles of Annata a year in Germany through a broker**, at €6.60 a bottle (12% below our €7.50 list price) and with no control over where it ends up. You are not entering a market, you are **taking one back and premiumizing it**. Germany is Europe's largest wine importer by volume, the organic "Bio" segment is huge and trusted, and EU logistics mean no tariffs and no customs friction.
 
 **How the market works**
 
@@ -93,7 +93,7 @@ How you get there is up to you. What you hand in is in section 5.
 
 Not hints, just the questions your pitch has to survive. Answer them with numbers from section 4.
 
-1. Your €120,000 has to be justified against the contribution you are **already** earning, not against zero. **What is the baseline**, and what is the *incremental* return on the investment?
+1. Your €120,000 has to be justified against the €33,750 a year you are **already** earning (section 4.7), not against zero. **What is the *incremental* return** once you count only the contribution above that baseline?
 2. Germany has the lowest cost line of any market on the list. **Where does that saving go** — into your margin, into the importer's, or into the shelf price? Only one of those protects the premium.
 3. Breaking the broker relationship has a cost and a risk you have to name. **What happens to the existing 15,000 bottles during the switch**, and what is your plan if some of them simply disappear?
 
@@ -121,9 +121,19 @@ These are Corte Aurelia's internal planning figures, agreed with the CFO. **Use 
 | Year-1 market-entry budget (fixed, one-off)     | **€120,000**         |
 | Case size                                       | 12 bottles           |
 
-### 4.3 Your cost line — GERMANY
+**Stock available for the new market in Year 1.** Everything else is already committed to existing customers. These bottles are freed by moving volume out of lower-margin Italian accounts, and they are the hard ceiling for your plan.
 
-Figures are per bottle unless stated.
+| Wine           | Available in Year 1 |
+| -------------- | ------------------- |
+| Annata         | 30,000 btl          |
+| Riserva        | 12,000 btl          |
+| Gran Selezione | 4,000 btl           |
+
+*The \~15,000 Annata bottles you already ship through the broker (section 4.7) are extra: they are not part of this table.*
+
+### 4.3 Your market's price-ladder inputs: GERMANY
+
+Figures are per bottle unless stated. **None of these is the estate's cost.** Under our terms the importer pays freight, duty and excise and passes them down the chain, so they do not reduce your contribution per bottle. They decide the shelf price.
 
 | Item                      | Germany                     |
 | ------------------------- | --------------------------- |
@@ -132,7 +142,7 @@ Figures are per bottle unless stated.
 | **Excise / alcohol tax**  | **€0.00**                   |
 | **Consumer VAT on shelf** | **19%**                     |
 
-*Duty and tax percentages apply to the landed value, meaning ex-cellar price plus freight.*
+*Import duty percentages apply to the landed value, meaning ex-cellar price plus freight. The 19% VAT is charged last, on the retail price, after every trade mark-up.*
 
 ### 4.4 The trade chain (same in every market)
 
@@ -151,9 +161,20 @@ Figures are per bottle unless stated.
 
 One quality importer appointed · **25,000 bottles sold in Year 1** · 60,000 by Year 3 · premium positioning protected.
 
-> ⚠ **Read this against your starting point.** You already ship roughly **15,000 bottles a year** through the broker, and Elena's Year-1 win condition for Germany is **30,000 bottles with no discounting**. Your **€120,000 has to be justified against the contribution you are already earning, not against zero.** A plan that reaches 25,000 bottles is not automatically a success here — say what the incremental contribution is, and be explicit about which bottles are new.
+> ⚠ **Read this against your starting point.** You already ship roughly **15,000 bottles a year** through the broker, and Elena's Year-1 win condition for Germany is **30,000 bottles with no discounting**. Your **€120,000 has to be justified against the contribution you are already earning (€33,750 a year, section 4.7), not against zero.** A plan that reaches 25,000 bottles is not automatically a success here — say what the incremental contribution is, and be explicit about which bottles are new.
 
 *These are Elena's targets, not facts. If your analysis says they are wrong for Germany, say so and show her why.*
+
+### 4.7 Today's broker business: your baseline
+
+| Item                                            | Figure                               |
+| ----------------------------------------------- | ------------------------------------ |
+| Volume                                          | **\~15,000 btl a year, all Annata**  |
+| Price the broker pays us                        | **€6.60** (12% below the €7.50 list) |
+| Contribution per bottle (€6.60 − €4.20 − €0.15) | **€2.25**                            |
+| Annual contribution today                       | **€33,750**                          |
+
+*This is what you already earn. Your €120,000 has to be justified by the contribution **above** €33,750, not by the total.*
 
 ***
 
@@ -195,7 +216,7 @@ Two supporting guides sit in the **`case_study_helper_info`** folder next to thi
 
 **Setting up the session:** upload *this handout* to Copilot Chat. It contains the brief and the Germany market pack in one file, so one upload is enough. Wherever the Prompting Guide says *"\[YOUR MARKET]"*, write **Germany**. Wherever it says *"your Market Card"*, it means **section 3 of this handout**.
 
-> ⚠ **One extra instruction for your team.** The Prompting Guide is written for a market-entry-from-zero case. Tell Copilot explicitly, in your first prompt, that Germany already generates roughly 15,000 bottles a year through a broker and that you need **incremental** contribution against that baseline. It will not work this out on its own, and every number after it will be wrong if you skip it.
+> ⚠ **One extra instruction for your team.** The Prompting Guide is written for a market-entry-from-zero case. Tell Copilot explicitly, in your first prompt, that Germany already generates roughly 15,000 bottles of Annata a year through a broker at €6.60, worth €33,750 in contribution (section 4.7), and that you need **incremental** contribution against that baseline. It will not work this out on its own, and every number after it will be wrong if you skip it.
 
 ***
 
@@ -218,7 +239,7 @@ Section 5 says *what* to hand in. This section says what "finished" looks like, 
 These have to be in there. If a slide does not eventually lead to one of them, cut the slide.
 
 1. **Which wine or wines, through which channel** — one sentence, no hedging.
-2. **Contribution per bottle** for each wine you lead with, after the Germany export cost line.
+2. **Contribution per bottle** for each wine you lead with: ex-cellar price minus variable cost minus the €0.15 export cost. It is the same in every market, because the importer pays freight and taxes.
 3. **Year-1 volume, total contribution, and the net result against the €120,000** — stated as **incremental** over today's broker business.
 4. **Break-even volume**, and how much margin for error that leaves you.
 5. **One early-warning indicator** that would tell Elena it is failing *before* the financials do.

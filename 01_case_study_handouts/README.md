@@ -19,7 +19,7 @@ line, exchange rate and win conditions**. Upload it straight into Copilot Chat.
 | Team | Market            | Handout                                                 | What makes this market hard                   |
 | ---- | ----------------- | ------------------------------------------------------- | --------------------------------------------- |
 | 1    | 🇯🇵 Japan        | [Handout_Team-1_Japan.md](Handout_Team-1_Japan.md)     | 0% duty (EU–Japan EPA) · €0.45 excise · 10%   |
-| 2    | 🇺🇸 USA          | [Handout_Team-2_USA.md](Handout_Team-2_USA.md)         | 0% base · **+15% tariff downside** to model   |
+| 2    | 🇺🇸 USA          | [Handout_Team-2_USA.md](Handout_Team-2_USA.md)         | **Tariff uncertain:** model 0% and 15%       |
 | 3    | 🇬🇧 UK           | [Handout_Team-3_UK.md](Handout_Team-3_UK.md)           | **€3.30 flat excise per bottle** · 20% VAT    |
 | 4    | 🇩🇪 Germany      | [Handout_Team-4_Germany.md](Handout_Team-4_Germany.md) | 0% · **incremental vs. 15,000 btl baseline**  |
 | 5    | 🇧🇷 Brazil       | [Handout_Team-5_Brazil.md](Handout_Team-5_Brazil.md)   | **55% of landed value** · highest freight     |
@@ -70,5 +70,6 @@ economics trace back to the Data Pack in section 4 of your handout.
 * **The markets are not equally winnable, on purpose.** Brazil's tax stack and the UK's flat excise
   are designed to force a different answer from the obvious one. Teams that notice this and say so
   are doing the exercise correctly.
-* **No team can see another team's cost line**, so comparing notes across tables produces an
-  argument rather than a copy.
+* **The five handouts sit side by side in this folder**, so teams can read each other's markets.
+  That is fine: the numbers are fictional, the learning is in the analysis, and comparing notes
+  across tables tends to produce an argument rather than a copy.

@@ -6,7 +6,7 @@ Wine Business Program 2026 | LUISS | Guida per gli studenti
 
 ## Obiettivo e risultato finale
 
-Userete Microsoft 365 Copilot Chat Basic ([m365.cloud.microsoft/chat)](https://m365.cloud.microsoft/chat) per analizzare alcune immagini
+Userete Microsoft 365 Copilot Chat Basic ([m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat)) per analizzare alcune immagini
 dell'Anthropic Economic Index e produrre un report in italiano.
 
 Il report deve iniziare con un executive summary: una sintesi per un
@@ -49,7 +49,7 @@ di riserva. Non cercate nuove immagini durante l'esercizio.
 | 00:00-01:00 | Leggete l'obiettivo e identificate paese e grafici forniti.      |
 | 01:00-02:00 | Caricate gli screenshot nella nuova chat: passo 4.               |
 | 02:00-05:00 | Incollate il prompt del passo 5, inviate e leggete la sintesi.   |
-| 05:00-08:00 | Leggete la sintesi e preparate la condivisione con la checklist. |
+| 05:00-08:00 | Controllate i numeri citati e preparate la condivisione.         |
 | 08:00-10:00 | Due studenti condividono 30 secondi ciascuno; il docente chiude. |
 
 **Al minuto 8 fermate l'analisi.** Le tabelle complete, gli approfondimenti
@@ -469,8 +469,7 @@ e degli allegati:
 Analizza esclusivamente i dati forniti qui sotto e scrivi un report
 in italiano. Non cercare sul web e non aggiungere statistiche dalla memoria.
 
-Fonte 1: Anthropic Economic Index, snapshot di maggio 2026 riportato
-nella slide 8 del corso.
+Fonte 1: Anthropic Economic Index, valori riportati nelle slide del corso.
 Usage Index:
 Italy 1.70
 France 3.97
@@ -501,7 +500,7 @@ Non ripetere la sintesi alla fine.
 
 ```
 
-Preparate l'intervento seguendo il passo 8 e la checklist finale.
+Preparate l'intervento seguendo il passo 6 e la checklist finale.
 
 ## Link utili
 

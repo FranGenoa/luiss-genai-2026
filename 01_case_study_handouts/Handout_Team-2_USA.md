@@ -32,11 +32,11 @@ Tool for today: **Microsoft 365 Copilot Chat** at `https://m365.cloud.microsoft/
 | **Corte Aurelia**                          | Chianti Classico Annata DOCG         | \~90,000 btl | €7.50           |
 | **Vigna del Sasso**                        | Chianti Classico Riserva DOCG        | \~40,000 btl | €12.00          |
 | **Aurelia**                                | Chianti Classico Gran Selezione DOCG | \~15,000 btl | €20.00          |
-| Rosato Toscana IGP · Sangiovese/Merlot IGT | Entry / experimental                 | small        | not exported    |
+| Rosato Toscana IGP · Sangiovese/Merlot IGT | Entry / experimental                 | \~35,000 btl | Italy only      |
 
 **Story assets:** 70+ years of family heritage · restored 16th-century farmhouse · 8-room agriturismo · \~4,000 wine-tourism visitors per year · hand-harvest · native yeasts on the top wines · organic conversion.
 
-**Current sales mix:** Italy 55% (HoReCa and enoteche) · EU 30% (Germany, Switzerland, Benelux) · Rest of world 15% (occasional US containers through a small broker).
+**Current sales mix (by volume):** Italy 55% (HoReCa and enoteche) · Europe 30% (Germany, Switzerland, Benelux) · Rest of world 15% (one-off containers to the US and Asia through traders, with no ongoing importer).
 
 **The situation:** domestic growth has plateaued. The family has decided to invest in **one priority export market** and build it properly, rather than scattering samples everywhere. Corte Aurelia has no market-specific packaging, no localized marketing, no in-market PR and no critic ratings in that market.
 
@@ -84,7 +84,7 @@ How you get there is up to you. What you hand in is in section 5.
 **Constraints**
 
 * TTB **COLA** label approval plus the Surgeon-General warning. The importer handles this.
-* **Tariff uncertainty on EU wine is real.** The Data Pack gives you a +15% downside to model. Verify the current status before you present it as fact.
+* **Tariff status on EU wine is uncertain** and has changed several times since 2025. The Data Pack asks you to model both 0% and 15%. Tell Elena which one you used as your base case and why, and verify the current status before you present either as fact.
 
 **What Elena would call a win in Year 1.** One importer signed, distributors in three states, a 90+ critic score, and 25,000 bottles moving.
 
@@ -93,8 +93,8 @@ How you get there is up to you. What you hand in is in section 5.
 Not hints, just the questions your pitch has to survive. Answer them with numbers from section 4.
 
 1. The three-tier system stacks importer **and** distributor margin before retail. **What does that do to your shelf price**, and who are you standing next to once it lands there?
-2. "Chianti" is famous *and* cheap in the US. **Which of the three wines actually escapes the cliché**, and can the production ceilings in section 1 supply it at the board's volume?
-3. The +15% tariff downside is a scenario, not a forecast. **Does your plan still clear €120,000 if it hits**, and at what point in the year would you know?
+2. "Chianti" is famous *and* cheap in the US. **Which of the three wines actually escapes the cliché**, and can the stock available in section 4.2 supply it at the board's volume?
+3. The tariff could be 0% or 15%, and nobody can promise which. **Does your plan still clear €120,000 under both**, and at what point in the year would you know which one you are living with?
 
 ***
 
@@ -120,18 +120,26 @@ These are Corte Aurelia's internal planning figures, agreed with the CFO. **Use 
 | Year-1 market-entry budget (fixed, one-off)     | **€120,000**         |
 | Case size                                       | 12 bottles           |
 
-### 4.3 Your cost line — USA
+**Stock available for the new market in Year 1.** Everything else is already committed to existing customers. These bottles are freed by moving volume out of lower-margin Italian accounts, and they are the hard ceiling for your plan.
 
-Figures are per bottle unless stated.
+| Wine           | Available in Year 1 |
+| -------------- | ------------------- |
+| Annata         | 30,000 btl          |
+| Riserva        | 12,000 btl          |
+| Gran Selezione | 4,000 btl           |
+
+### 4.3 Your market's price-ladder inputs: USA
+
+Figures are per bottle unless stated. **None of these is the estate's cost.** Under our terms the importer pays freight, duty and excise and passes them down the chain, so they do not reduce your contribution per bottle. They decide the shelf price.
 
 | Item                      | USA                                                 |
 | ------------------------- | --------------------------------------------------- |
 | **Freight & insurance**   | **€0.45**                                           |
-| **Import duty**           | **0%** base · also model a **+15% tariff** downside |
+| **Import duty**           | **Uncertain:** model both **0%** and **15%**        |
 | **Excise / alcohol tax**  | **€0.20**                                           |
 | **Consumer sales tax**    | varies by state — **ignore**                        |
 
-*Duty and tax percentages apply to the landed value, meaning ex-cellar price plus freight.*
+*Import duty percentages apply to the landed value, meaning ex-cellar price plus freight. State sales tax is ignored.*
 
 ### 4.4 The trade chain (same in every market)
 
@@ -213,7 +221,7 @@ Section 5 says *what* to hand in. This section says what "finished" looks like, 
 These have to be in there. If a slide does not eventually lead to one of them, cut the slide.
 
 1. **Which wine or wines, through which channel** — one sentence, no hedging.
-2. **Contribution per bottle** for each wine you lead with, after the USA export cost line.
+2. **Contribution per bottle** for each wine you lead with: ex-cellar price minus variable cost minus the €0.15 export cost. It is the same in every market, because the importer pays freight and taxes.
 3. **Year-1 volume, total contribution, and the net result against the €120,000.**
 4. **Break-even volume**, and how much margin for error that leaves you.
 5. **One early-warning indicator** that would tell Elena it is failing *before* the financials do.
@@ -228,7 +236,7 @@ A shape that works. Not a rule. Adapt it to the US story.
 | 2     | **The obvious plan, and why we rejected it** | Show the tempting option and let the numbers kill it. This is where you earn credibility                                                                |
 | 3     | **What the market pays for a bottle**        | The price ladder: ex-cellar → freight → duty and excise → importer → distributor → retail. Finish on the shelf price **in USD**                          |
 | 4     | **The Year-1 plan**                          | Wine × volume × channel × contribution, with totals and the net against €120,000                                                                        |
-| 5     | **Scenarios**                                | Downside (**including the +15% tariff**), base, upside. Say what breaks in the downside and what actually limits the upside                              |
+| 5     | **Scenarios**                                | Downside, base, upside, **each at 0% and 15% tariff**. Say what breaks in the downside and what actually limits the upside                              |
 | 6     | **How Elena will know it is working**        | Your indicators, with targets, review rhythm, and the action if each one misses                                                                         |
 | 7     | **The positioning visual**                   | Your generated image, plus one line on why it works in the USA                                                                                          |
 | 8     | **The ask**                                  | What you need signed off, the 12-month gates, and the one point of failure you are flagging honestly                                                    |

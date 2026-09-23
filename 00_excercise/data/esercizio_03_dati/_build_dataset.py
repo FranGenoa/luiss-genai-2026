@@ -3,7 +3,7 @@
 Source: TidyTuesday 2019-05-28 mirror of the Kaggle "Wine Reviews" dataset
 https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2019/2019-05-28/winemag-data-130k-v2.csv
 
-Run once to regenerate data/vini_italiani_recensioni.csv
+Run once to regenerate vini_italiani_recensioni.csv in this folder.
 """
 import os
 import re

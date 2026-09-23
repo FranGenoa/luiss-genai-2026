@@ -16,7 +16,7 @@ This guide is a **sequence**. Work through it top to bottom. The order is the mo
 > | the company brief    | section 1                                    |
 > | the CEO's ask        | section 2                                    |
 > | your **Market Card** | **section 3**                                |
-> | the **Data Pack**    | **section 4** (your cost line is in **4.3**) |
+> | the **Data Pack**    | **section 4** (stock available in **4.2**, your price-ladder inputs in **4.3**) |
 > | the time box         | section 7                                    |
 > | the deliverables     | sections 5 and 9                             |
 
@@ -96,7 +96,7 @@ Open `https://m365.cloud.microsoft/chat`. **Upload your team handout** — the s
 
 **Stop and look at this table properly.** It is the most important output of the day. It will usually tell you that one obvious-looking option does not work at all, and that another is far stronger than you expected.
 
-> ⚠ **If Copilot subtracts importer or distributor margin here, stop it.** Those sit *above* your ex-cellar price, in your customer's economics. They are not your cost. Your ex-cellar price is your revenue.
+> ⚠ **If Copilot subtracts importer or distributor margin, freight, duty or excise here, stop it.** Those sit *above* your ex-cellar price, in your customer's economics: the importer pays freight and taxes (section 4.3). They are not your cost. Your ex-cellar price is your revenue.
 
 ### Prompt 3 · Challenge the brief
 
@@ -108,7 +108,7 @@ Elena's targets are stated as **ambitions, not facts** (section 4.6 of your hand
 
 ### Prompt 4 · Hunt for the constraint
 
-> Check my preferred option against every constraint in my handout: total annual production for each wine in the portfolio table, our existing domestic and EU sales commitments, the €120,000 budget, and the channel rules in the market section. Is this plan physically possible?
+> Check my preferred option against every constraint in my handout: the stock available for the new market in section 4.2, the €120,000 budget, the channel rules in the market section, and anything the CEO letter rules out. Is this plan physically possible?
 
 The constraints are deliberately spread across different sections of the handout. **Nothing points them out to you**, and Copilot will not connect them unless you ask, because each number is individually reasonable.
 
@@ -160,7 +160,7 @@ Strategy that is discovered this way is defensible. Strategy that is invented be
 
 ### Prompt 9 · Construct the plan
 
-> Build a Year-1 plan totalling \[X] bottles across our wines, respecting every production ceiling. For each wine give volume, channel, contribution per bottle and total contribution. Then give blended contribution per bottle, total contribution, net result against the €120,000, ROI, and break-even volume.
+> Build a Year-1 plan totalling \[X] bottles across our wines, respecting the stock available for the new market in section 4.2. For each wine give volume, channel, contribution per bottle and total contribution. Then give blended contribution per bottle, total contribution, net result against the €120,000, ROI, and break-even volume.
 
 ### Prompt 10 · Interrogate the weakest part of your own plan
 
@@ -218,20 +218,20 @@ Describe the **scene**, not the object. Cover what is in frame, the setting, the
 
 ### Prompt 16 · The deck *(switch on Think Deeper)*
 
-> Using everything in this conversation, create a PowerPoint presentation for the CEO and the family board. Maximum 8 slides:
+> Using everything in this conversation, create a PowerPoint presentation for the CEO and the family board. 8 slides:
 >
-> 1. Title and our recommendation in one line
-> 2. The opportunity, and why the obvious answer does not work
-> 3. Pricing and margins
-> 4. The Year-1 plan and the economics
-> 5. Downside, base and upside
-> 6. How we will know it is working
-> 7. The campaign visual
+> 1. The recommendation: market, wine, channel and three headline numbers
+> 2. The obvious plan, and why we rejected it
+> 3. What the market pays for a bottle: the full price ladder, ending in local currency
+> 4. The Year-1 plan: wine × volume × channel × contribution, and the net against €120,000
+> 5. Scenarios: downside, base and upside
+> 6. How Elena will know it is working: indicators, targets and actions
+> 7. The positioning visual
 > 8. The ask, including our single deadline
 >
 > Write it as a board pitch, not a report. Short lines, no paragraphs.
 
-Section 9.3 of your handout gives the same eight slides with a note on what each one has to do, already worded for your market. `99_Indicative-Submission_Deck.pptx`, in this folder, is a market-neutral skeleton of them.
+Section 9.3 of your handout gives the same eight slides with a note on what each one has to do, already worded for your market. The handout allows up to 10 slides if you need them. `99_Indicative-Submission_Deck.pptx`, in this folder, is a market-neutral skeleton of them.
 
 Download it as `.pptx` and insert your image manually.
 

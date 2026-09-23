@@ -7,7 +7,7 @@ The day has two distinct halves, and they work very differently.
 
 | Folder                           | What it is                                | Format                        | When                        |
 | -------------------------------- | ----------------------------------------- | ----------------------------- | --------------------------- |
-| [`00_excercise/`](00_excercise/) | Three short, standalone AI exercises      | 10 minutes each, individually | **During** the presentation |
+| [`00_excercise/`](00_excercise/) | Three short, standalone AI exercises      | 10-15 minutes each, individually | **During** the presentation |
 | [`01_case_study_handouts/`](01_case_study_handouts/) | One long team case study | ~2 hours, five teams          | After the presentation      |
 
 ***
@@ -16,8 +16,9 @@ The day has two distinct halves, and they work very differently.
 
 Three **independent** exercises, run one at a time as the lecture reaches the
 relevant topic. Each is self-contained: they share no state, no chat history
-and no data, so a student who misses one can still do the next. Each runs on a
-**10-minute timer** and is worked **individually** — every student at their own
+and no data, so a student who misses one can still do the next. Exercises 1 and 2
+run on a **10-minute timer**, exercise 3 on **15 minutes**, and each is worked
+**individually** — every student at their own
 machine, in their own chat, running Copilot *and* checking its output against
 the source. The verification is not delegated to anyone else.
 
@@ -82,7 +83,7 @@ hours, in a single Copilot conversation, ending in a live pitch.
 01_case_study_handouts/
 ├── README.md                          workshop landing page + facilitator notes
 ├── Handout_Team-1_Japan.md            🇯🇵  0% duty (EU–Japan EPA)
-├── Handout_Team-2_USA.md              🇺🇸  three-tier system, +15% tariff downside
+├── Handout_Team-2_USA.md              🇺🇸  three-tier system, tariff 0% or 15%
 ├── Handout_Team-3_UK.md               🇬🇧  €3.30 flat excise per bottle
 ├── Handout_Team-4_Germany.md          🇩🇪  existing broker, incremental ROI
 ├── Handout_Team-5_Brazil.md           🇧🇷  55% of landed value
@@ -95,8 +96,9 @@ hours, in a single Copilot conversation, ending in a live pitch.
 
 **One handout per team, and it is self-contained** — company, CEO brief, Data
 Pack, that team's market pack, cost line, exchange rate and deliverables in a
-single file, so one upload gives Copilot the full context. Each team sees only
-its own market's numbers.
+single file, so one upload gives Copilot the full context. The five handouts sit
+side by side, so teams can read each other's markets: the numbers are fictional
+and the learning is in the analysis.
 
 **Deliverables:** a board deck (max 10 slides), one generated positioning image
 that works in *that* market, a 5-minute pitch and a 2-minute reflection on

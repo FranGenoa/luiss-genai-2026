@@ -20,7 +20,7 @@ to work*. Where the guides refer to something in the brief, they point at a sect
 | the company brief    | 1                                            |
 | the CEO's ask        | 2                                            |
 | your **Market Card** | **3** (and 3.1 for your market's hard questions) |
-| the **Data Pack**    | **4** — your own cost line is **4.3**        |
+| the **Data Pack**    | **4** — stock available **4.2**, your price-ladder inputs **4.3** |
 | the time box         | 7                                            |
 | the deliverables     | 5 and 9                                      |
 

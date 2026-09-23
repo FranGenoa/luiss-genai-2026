@@ -15,7 +15,7 @@ Open this if any of the following is true:
 
 There is a rescue plan for each of those at the end. The arithmetic is in **The maths**, halfway down. Start with the method.
 
-> **Where things live.** Everything you need is in **your team handout** — `Handout_Team-N_<Market>.md` in the folder above this one. The company and the portfolio are in section 1, the CEO's ask in section 2, **your market in section 3**, **the Data Pack in section 4** (your own cost line in 4.3), the deliverables in sections 5 and 9.
+> **Where things live.** Everything you need is in **your team handout** — `Handout_Team-N_<Market>.md` in the folder above this one. The company and the portfolio are in section 1, the CEO's ask in section 2, **your market in section 3**, **the Data Pack in section 4** (stock available in 4.2, your price-ladder inputs in 4.3), the deliverables in sections 5 and 9.
 
 ***
 
@@ -39,9 +39,9 @@ You will usually find that **at least one option is arithmetically impossible an
 
 Once you have found the most attractive option, go hunting for the reason you cannot have it.
 
-The constraints are in your handout, but they are **deliberately in different sections**, so nothing points them out to you. Production volumes are in the portfolio table in section 1. The budget is in the CEO letter in section 2. Channel rules are in the market section, section 3. Copilot will not connect them for you, because each number is individually reasonable.
+The constraints are in your handout, but they are **deliberately in different sections**, so nothing points them out to you. The stock available for the new market is in section 4.2 (total production is in the portfolio table in section 1). The budget is in the CEO letter in section 2. Channel rules are in the market section, section 3. Copilot will not connect them for you, because each number is individually reasonable.
 
-> *"Check my proposed plan against every constraint in my handout: total annual production per wine, the €120,000 budget, our existing sales commitments, and the channel rules in the market section. List anything that is impossible or inconsistent."*
+> *"Check my proposed plan against every constraint in my handout: the stock available per wine in section 4.2, the €120,000 budget, and the channel rules in the market section. List anything that is impossible or inconsistent."*
 
 If your answer survives this, it is probably a real answer. If it does not, you have just been saved from pitching something that cannot physically happen.
 
@@ -79,7 +79,7 @@ Whatever comes back is your most important non-financial indicator. Every market
 
 ### 1 · Contribution per bottle — your starting point
 
-Only one export cost in the Data Pack touches the estate's own P&L: the **€0.15** compliance and labelling charge. Freight, duty, excise and VAT sit *above* your ex-cellar price. They change what the consumer pays, not what you earn.
+Only one export cost in the Data Pack touches the estate's own P&L: the **€0.15** compliance and labelling charge. Freight, duty, excise and VAT sit *above* your ex-cellar price, because the importer pays them (section 4.3 of your handout). They change what the consumer pays, not what you earn.
 
 ```
 contribution (CM)   = ex-cellar − variable cost − €0.15
@@ -95,7 +95,7 @@ break-even  = 120,000 ÷ 3.85             = 31,169 bottles
 at 25,000   = 25,000 × 3.85 − 120,000    = −€23,750
 ```
 
-Do all three wines before you have any opinion about your market, then **check each break-even against the production ceilings in section 1 of your handout**. A wine can have a beautiful break-even and still not exist in sufficient quantity. That is usually why the workable answer is a **mix**.
+Do all three wines before you have any opinion about your market, then **check each break-even against the stock available for the new market in section 4.2 of your handout**. A wine can have a beautiful break-even and still not exist in sufficient quantity. That is usually why the workable answer is a **mix**.
 
 ### 2 · The price ladder — where the markets actually differ
 
@@ -110,10 +110,12 @@ Same chain in every market. Only your section 4.3 numbers change.
 6   × 1.25                          distributor
 7   × 1.40                          retail, off-trade
 8   × (1 + VAT %)                →  shelf price
-9   ÷ your Data Pack rate        →  local currency
+9   × your Data Pack rate        →  local currency (EUR/JPY 165 means €1 = ¥165)
 
 restaurant list price = step 6 × 3
 ```
+
+Skip step 8 in the USA (sales tax is ignored) and in Brazil (it is already inside the 55%). Germany needs no step 9.
 
 Two order-of-operations errors give you a table that looks immaculate and is wrong:
 **VAT goes on after the retail mark-up, never before.** **Duty applies to landed value, not to ex-cellar.**
@@ -146,9 +148,9 @@ break-even          = €120,000 ÷ blended CM
 
 **A plan can have a break-even higher than the volume it ships.** It then cannot break even at all — a far sharper finding than "we make less money". Go looking for it in your downside scenario.
 
-**State who pays the freight.** Importer pays is the convention, and it keeps freight out of your CM. Assume the estate pays and you subtract it, which makes your CM market-specific. Both are defensible; only one is written down. Decide, write it down, say it in the pitch.
+**Do not subtract freight.** Under our terms the importer pays freight, duty and excise (section 4.3 of your handout), so they belong in the price ladder, not in your contribution. If you want to argue for a different arrangement, write it down as an assumption and say it in the pitch.
 
-> ⚠ **Team 4 (Germany), one extra rule.** Your break-even is not measured against zero. You already ship roughly 15,000 bottles a year through the broker, so what matters is the **incremental** contribution the €120,000 buys. Recalculate on that basis or your ROI is fiction.
+> ⚠ **Team 4 (Germany), one extra rule.** Your break-even is not measured against zero. You already ship roughly 15,000 bottles a year through the broker, so what matters is the **incremental** contribution the €120,000 buys. The baseline is 15,000 bottles of Annata at €6.60, worth €33,750 a year (section 4.7 of your handout). Recalculate on that basis or your ROI is fiction.
 
 ***
 
