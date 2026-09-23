@@ -186,7 +186,7 @@ One quality importer appointed · **25,000 bottles sold in Year 1** · 60,000 by
 Two supporting guides sit in the **`case_study_helper_info`** folder next to this file. Read the first before you start.
 
 * **`case_study_helper_info/01_Prompting-Guide.md`** — how to set up the session, how to write a prompt that works, and starter prompts for each hand-in. It is there to give you a **head start**, not a script: the starter prompts are yours to lift, adapt or ignore. **You have full freedom in what you submit and how you get there** — the guide just saves you the blank page.
-* **`case_study_helper_info/02_If-You-Get-Stuck.md`** — additional info to open if you stall. It has a five-question method for getting to a decision.
+* **`case_study_helper_info/02_If-You-Get-Stuck.md`** — open it if you stall, or if the numbers will not reconcile. A five-question method for getting to a decision, plus the three core calculations — contribution, the price ladder, the Year-1 total — written out step by step.
 
 **Setting up the session:** upload *this handout* to Copilot Chat. It contains the brief and the Brazil market pack in one file, so one upload is enough. Wherever the Prompting Guide says *"\[YOUR MARKET]"*, write **Brazil**. Wherever it says *"your Market Card"*, it means **section 3 of this handout**.
 

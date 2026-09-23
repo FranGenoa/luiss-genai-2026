@@ -89,7 +89,7 @@ hours, in a single Copilot conversation, ending in a live pitch.
 └── case_study_helper_info/
     ├── README.md
     ├── 01_Prompting-Guide.md          7 phases, 16 starter prompts, in order
-    ├── 02_If-You-Get-Stuck.md         five-question rescue method
+    ├── 02_If-You-Get-Stuck.md         rescue method + the three core calculations
     └── 99_Indicative-Submission_Deck.pptx   market-neutral 8-slide skeleton
 ```
 

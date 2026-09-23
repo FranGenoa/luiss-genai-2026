@@ -9,10 +9,11 @@ Open this if any of the following is true:
 
 * It is the 15-minute checkpoint and you still cannot say which wine and which channel.
 * You have a lot of text from Copilot and no decision.
+* **Your numbers do not reconcile and you cannot see where.**
 * Your team is arguing and nobody can prove anything.
 * There are 30 minutes left and you have nothing to hand in.
 
-There is a rescue plan for each of those at the end. Start with the method.
+There is a rescue plan for each of those at the end. The arithmetic is in **The maths**, halfway down. Start with the method.
 
 > **Where things live.** Everything you need is in **your team handout** — `Handout_Team-N_<Market>.md` in the folder above this one. The company and the portfolio are in section 1, the CEO's ask in section 2, **your market in section 3**, **the Data Pack in section 4** (your own cost line in 4.3), the deliverables in sections 5 and 9.
 
@@ -72,43 +73,82 @@ Whatever comes back is your most important non-financial indicator. Every market
 
 ***
 
-## How the maths works, mechanically
+## The maths: three calculations, in this order
 
-**The numbers below are invented for illustration. They are not our wines.** Run the real ones yourself.
+**Every figure below is invented for illustration. These are not our wines.** Run yours.
 
-Say a wine sells ex-cellar at **€10.00** and costs **€6.00** to make, with **€0.15** of export cost.
+### 1 · Contribution per bottle — your starting point
 
-```
-Contribution per bottle = 10.00 − 6.00 − 0.15 = €3.85
-
-Break-even volume = fixed cost ÷ contribution per bottle
-                  = €120,000 ÷ €3.85
-                  = 31,169 bottles
-```
-
-If your plan is a **mix** of wines, you need a blended contribution:
+Only one export cost in the Data Pack touches the estate's own P&L: the **€0.15** compliance and labelling charge. Freight, duty, excise and VAT sit *above* your ex-cellar price. They change what the consumer pays, not what you earn.
 
 ```
-Blended CM = total contribution ÷ total volume
-
-e.g. (5,000 × €3.85) + (5,000 × €7.00)
-   = 19,250 + 35,000 = €54,250
-   €54,250 ÷ 10,000 = €5.425 per bottle
-
-Break-even = €120,000 ÷ €5.425 = 22,120 bottles
+contribution (CM)   = ex-cellar − variable cost − €0.15
+break-even volume   = €120,000 ÷ CM
+net result at V     = (V × CM) − €120,000
 ```
 
-**Always check it back:** 22,120 × €5.425 = €120,001. Rounding only. If it does not reconcile, something upstream is wrong.
+A wine at €10.00 ex-cellar costing €6.00 to make:
 
-### Three mistakes to avoid
+```
+CM          = 10.00 − 6.00 − 0.15        = €3.85
+break-even  = 120,000 ÷ 3.85             = 31,169 bottles
+at 25,000   = 25,000 × 3.85 − 120,000    = −€23,750
+```
 
-**Importer and distributor margins are not your cost.** They sit *above* your ex-cellar price, in your customer's economics. Do not subtract them from your contribution. Your ex-cellar price is your revenue.
+Do all three wines before you have any opinion about your market, then **check each break-even against the production ceilings in section 1 of your handout**. A wine can have a beautiful break-even and still not exist in sufficient quantity. That is usually why the workable answer is a **mix**.
 
-**Blended contribution is only valid for one specific mix.** Change the mix and you must recalculate. A plan can have a break-even volume that is *higher than the volume it ships*, which means it cannot break even at all. That is a much sharper finding than "we make less money."
+### 2 · The price ladder — where the markets actually differ
 
-**State who pays the freight.** If you assume the importer pays it, your contribution is higher than if you assume you do. Both are defensible. Only one is written down in your assumptions, and it can move your ROI by several percentage points. Decide, write it down, and say it in the pitch.
+Same chain in every market. Only your section 4.3 numbers change.
 
-> ⚠ **Team 4 (Germany), one extra rule.** Your break-even is not measured against zero. You already ship roughly 15,000 bottles a year through the broker, so what matters is the **incremental** contribution the €120,000 buys. Recalculate everything on that basis or your ROI is fiction.
+```
+1   ex-cellar price
+2   + freight & insurance        →  landed value
+3   × (1 + import duty %)           duty applies to LANDED VALUE
+4   + excise per bottle
+5   × 1.30                          importer
+6   × 1.25                          distributor
+7   × 1.40                          retail, off-trade
+8   × (1 + VAT %)                →  shelf price
+9   ÷ your Data Pack rate        →  local currency
+
+restaurant list price = step 6 × 3
+```
+
+Two order-of-operations errors give you a table that looks immaculate and is wrong:
+**VAT goes on after the retail mark-up, never before.** **Duty applies to landed value, not to ex-cellar.**
+
+> **The one structural insight worth taking into the pitch.** Steps 5–7 multiply everything beneath them by **1.30 × 1.25 × 1.40 = 2.275**. Every €1 of cost added *before* the trade chain lands as €2.28 on the shelf, before VAT. So a percentage duty compounds with price, while a flat per-bottle excise is regressive and punishes your cheapest wine hardest. Both facts fall straight out of the ladder — no outside research needed.
+
+### 3 · The Year-1 total — where teams confuse their own numbers
+
+```
+contribution(wine)  = volume × CM(wine)
+total contribution  = Σ contribution(wine)
+blended CM          = total contribution ÷ total volume
+net Year 1          = total contribution − €120,000
+ROI                 = net ÷ €120,000
+break-even          = €120,000 ÷ blended CM
+% of plan           = break-even ÷ planned volume
+```
+
+**Blended CM is volume-weighted, not the average of the three CMs**, and it is valid for that exact mix only. Change the mix — including in every scenario — and recalculate.
+
+**Check it back:** break-even × blended CM must return €120,000. If it doesn't, something upstream is wrong.
+
+**"% of plan" is the number Elena will remember.** It says how much of the plan has to work before she sees a euro back. Above roughly 80%, you are quietly claiming near-perfect execution — say it out loud before she does.
+
+> ⚠ Revenue is not contribution, and neither one is profit. `Σ (volume × ex-cellar)` is revenue. If a slide shows a large number labelled "profit", check which one it really is.
+
+### Three things that will cost you credibility
+
+**Importer and distributor margins are not your cost.** They sit above your ex-cellar price, in your customer's economics. Your ex-cellar price is your revenue.
+
+**A plan can have a break-even higher than the volume it ships.** It then cannot break even at all — a far sharper finding than "we make less money". Go looking for it in your downside scenario.
+
+**State who pays the freight.** Importer pays is the convention, and it keeps freight out of your CM. Assume the estate pays and you subtract it, which makes your CM market-specific. Both are defensible; only one is written down. Decide, write it down, say it in the pitch.
+
+> ⚠ **Team 4 (Germany), one extra rule.** Your break-even is not measured against zero. You already ship roughly 15,000 bottles a year through the broker, so what matters is the **incremental** contribution the €120,000 buys. Recalculate on that basis or your ROI is fiction.
 
 ***
 

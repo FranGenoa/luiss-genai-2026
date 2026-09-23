@@ -30,7 +30,8 @@ line, exchange rate and win conditions**. Upload it straight into Copilot Chat.
 
 * **`01_Prompting-Guide.md`** — the afternoon as a sequence: 7 phases, 16 starter prompts, in the
   order that works. **Read this before you start.**
-* **`02_If-You-Get-Stuck.md`** — five-question rescue method, the maths worked mechanically, and a
+* **`02_If-You-Get-Stuck.md`** — five-question rescue method, the three core calculations
+  (contribution, price ladder, Year-1 total) written out step by step, and a
   30-minutes-left emergency plan.
 * **`99_Indicative-Submission_Deck.pptx`** — market-neutral 8-slide skeleton. No answers in it.
 

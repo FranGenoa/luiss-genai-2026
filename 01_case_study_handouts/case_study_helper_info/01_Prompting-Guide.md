@@ -259,7 +259,7 @@ Close the laptop. Time the 5-minute pitch out loud, at least twice, and decide w
 | Lots of output, no decision          | *"Stop giving me options. Pick ONE and defend it in five sentences."*       |
 | You disagree with it                 | You are probably right. You know wine. It knows text.                       |
 
-If none of that works, open **`02_If-You-Get-Stuck.md`** in this folder.
+If none of that works, open **`02_If-You-Get-Stuck.md`** in this folder. If the problem is the arithmetic rather than the tool, go straight to its **The maths** section — contribution, the price ladder and the Year-1 total, written out step by step.
 
 ## The four mistakes teams make often
 
