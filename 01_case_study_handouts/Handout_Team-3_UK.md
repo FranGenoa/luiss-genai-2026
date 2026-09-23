@@ -116,7 +116,9 @@ These are Corte Aurelia's internal planning figures, agreed with the CFO. **Use 
 | Year-1 market-entry budget (fixed, one-off)     | **€120,000**         |
 | Case size                                       | 12 bottles           |
 
-**Stock available for the new market in Year 1.** Everything else is already committed to existing customers. These bottles are freed by moving volume out of lower-margin Italian accounts, and they are the hard ceiling for your plan.
+**Stock available for the new market in Year 1.** The volumes below are uncommitted and available for this initiative. They are included in the estate's planned annual production figures in section 1, not additional production.
+
+Existing customer commitments are protected. For this exercise, assume this allocation has no alternative sales opportunity in Year 1: export sales do not replace domestic sales.
 
 | Wine           | Available in Year 1 |
 | -------------- | ------------------- |
@@ -124,7 +126,11 @@ These are Corte Aurelia's internal planning figures, agreed with the CFO. **Use 
 | Riserva        | 12,000 btl          |
 | Gran Selezione | 4,000 btl           |
 
-*These are supply limits, not sales forecasts. We earn contribution only on bottles the importer actually buys, and an importer buys only what it believes it can sell at full price. Management's expectation of Year-1 demand is set out in section 4.6. Whether your market can really absorb that volume, and in which wines, is your assumption to make and defend. Bottles the new market does not take stay with our Italian customers.*
+*These are hard supply ceilings, not sales forecasts. We earn contribution only on bottles the importer actually buys, and an importer buys only what it believes it can sell at full price. Management's expectation of Year-1 demand is set out in section 4.6. Whether your market can really absorb that volume, and in which wines, is your assumption to make and defend. Bottles not purchased by the importer remain in the estate's inventory and generate no Year-1 sales contribution.*
+
+**The financial measure:** `Year-1 market result = Σ(bottles sold × contribution per bottle) − €120,000`. Contribution per bottle is ex-cellar price minus variable cost minus the €0.15 export cost. "Net result" in the supporting materials means this same measure.
+
+This is the market's contribution after launch spending, not total estate profit or cash flow. Existing estate overheads, inventory financing and the future value of unsold stock are outside the exercise. Production costs remain in the contribution calculation: uncommitted stock does not mean free wine.
 
 ### 4.3 Your market's price-ladder inputs: UNITED KINGDOM
 
@@ -220,7 +226,7 @@ Five things have to be in your deck. If a slide does not eventually lead to one 
 
 1. **Which wine or wines, through which channel** — one sentence, no hedging.
 2. **Contribution per bottle** for each wine you lead with: ex-cellar price minus variable cost minus the €0.15 export cost. It is the same in every market, because the importer pays freight and taxes.
-3. **Year-1 volume, total contribution, and the net result against the €120,000.**
+3. **Year-1 volume, total contribution, and the Year-1 market result after the €120,000 launch spending**, as defined in section 4.2.
 4. **Break-even volume**, and how much margin for error that leaves you.
 5. **A strategy pack with your recommendations for the UK.** The moves you would make, in priority order: route to market and the partner you want, pricing and positioning, the story you lead with, the launch activity, and how the €120,000 is split between them. For each one, say why it fits the UK and what Elena has to decide. Close with a clear call: **go, go with conditions, or not yet**, and the conditions.
 

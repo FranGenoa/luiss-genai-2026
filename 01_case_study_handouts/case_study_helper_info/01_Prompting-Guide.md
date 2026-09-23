@@ -77,6 +77,8 @@ Open `https://m365.cloud.microsoft/chat`. **Upload your team handout** — the s
 
 **Check the read-back before you continue.** It must have the budget, the three wines and their costs, your market's duty and tax line from section 4.3, and the CEO's three questions right. If Copilot has misunderstood the brief now, everything after it is wrong and **you will not notice for forty minutes**.
 
+It must also preserve section 4.2's stock assumption: the available bottles are uncommitted allocations within planned production, with no alternative Year-1 sales. Export sales do not displace domestic customers, and unsold bottles remain in inventory with no Year-1 sales contribution.
+
 **Stay in this same conversation all afternoon.** A new chat forgets everything.
 
 ***
@@ -90,13 +92,15 @@ Open `https://m365.cloud.microsoft/chat`. **Upload your team handout** — the s
 > Using **only** the Data Pack, calculate for each of our three wines:
 > (a) contribution per bottle = ex-cellar price − variable cost − €0.15 export cost;
 > (b) break-even volume = €120,000 ÷ contribution per bottle;
-> (c) total contribution and net result at the board's 25,000-bottle target.
+> (c) total contribution and Year-1 market result after the €120,000 launch spending at the board's 25,000-bottle target.
 >
 > One table. Show the formulas.
 
 **Stop and look at this table properly.** It is the most important output of the day. It will usually tell you that one obvious-looking option does not work at all, and that another is far stronger than you expected.
 
 > ⚠ **If Copilot subtracts importer or distributor margin, freight, duty or excise here, stop it.** Those sit *above* your ex-cellar price, in your customer's economics: the importer pays freight and taxes (section 4.3). They are not your cost. Your ex-cellar price is your revenue.
+
+**Keep the measure straight.** The Year-1 market result is contribution after launch spending, not total estate profit or cash flow. Existing estate overheads, inventory financing and the future value of unsold stock are outside the exercise. Keep production costs in contribution: uncommitted stock is not free wine.
 
 ### Prompt 3 · Challenge the brief
 
@@ -160,7 +164,7 @@ Strategy that is discovered this way is defensible. Strategy that is invented be
 
 ### Prompt 9 · Construct the plan
 
-> Build a Year-1 plan totalling \[X] bottles across our wines, respecting the stock available for the new market in section 4.2. For each wine give volume, channel, contribution per bottle and total contribution. Then give blended contribution per bottle, total contribution, net result against the €120,000, ROI, and break-even volume.
+> Build a Year-1 plan totalling \[X] bottles across our wines, respecting the stock available for the new market in section 4.2. For each wine give volume, channel, contribution per bottle and total contribution. Then give blended contribution per bottle, total contribution, Year-1 market result after the €120,000 launch spending, ROI (market result ÷ €120,000), and break-even volume. Do not label the market result as total estate profit or cash flow.
 
 ### Prompt 10 · Interrogate the weakest part of your own plan
 
@@ -223,7 +227,7 @@ Describe the **scene**, not the object. Cover what is in frame, the setting, the
 > 1. The recommendation: market, wine, channel and three headline numbers
 > 2. The obvious plan, and why we rejected it
 > 3. What the market pays for a bottle: the full price ladder, ending in local currency
-> 4. The Year-1 plan: wine × volume × channel × contribution, and the net against €120,000
+> 4. The Year-1 plan: wine × volume × channel × contribution, and the market result after €120,000 launch spending
 > 5. Scenarios: downside, base and upside
 > 6. How Elena will know it is working: indicators, targets and actions
 > 7. The positioning visual

@@ -81,10 +81,12 @@ Whatever comes back is your most important non-financial indicator. Every market
 
 Only one export cost in the Data Pack touches the estate's own P&L: the **€0.15** compliance and labelling charge. Freight, duty, excise and VAT sit *above* your ex-cellar price, because the importer pays them (section 4.3 of your handout). They change what the consumer pays, not what you earn.
 
+Section 4.2 reserves uncommitted stock within the estate's planned production, with no alternative Year-1 sales opportunity. Export sales do not replace domestic sales. Bottles not purchased by the importer remain in inventory and generate no Year-1 sales contribution. Production costs still belong in contribution; uncommitted stock is not free wine.
+
 ```
 contribution (CM)   = ex-cellar − variable cost − €0.15
 break-even volume   = €120,000 ÷ CM
-net result at V     = (V × CM) − €120,000
+market result at V  = (V × CM) − €120,000
 ```
 
 A wine at €10.00 ex-cellar costing €6.00 to make:
@@ -125,20 +127,22 @@ Two order-of-operations errors give you a table that looks immaculate and is wro
 ### 3 · The Year-1 total — where teams confuse their own numbers
 
 ```
-contribution(wine)  = volume × CM(wine)
-total contribution  = Σ contribution(wine)
-blended CM          = total contribution ÷ total volume
-net Year 1          = total contribution − €120,000
-ROI                 = net ÷ €120,000
-break-even          = €120,000 ÷ blended CM
-% of plan           = break-even ÷ planned volume
+contribution(wine)    = bottles sold × CM(wine)
+total contribution   = Σ contribution(wine)
+blended CM           = total contribution ÷ total bottles sold
+Year-1 market result = total contribution − €120,000
+ROI                  = Year-1 market result ÷ €120,000
+break-even           = €120,000 ÷ blended CM
+% of plan            = break-even ÷ planned volume
 ```
+
+**The Year-1 market result** (also called "net result" in the materials) is the market's contribution after launch spending, not total estate profit or cash flow. Existing estate overheads, inventory financing and the future value of unsold stock are outside the exercise. ROI here is the market result relative to the launch budget, not a return on the estate's total invested capital.
 
 **Blended CM is volume-weighted, not the average of the three CMs**, and it is valid for that exact mix only. Change the mix — including in every scenario — and recalculate.
 
 **Check it back:** break-even × blended CM must return €120,000. If it doesn't, something upstream is wrong.
 
-**"% of plan" is the number Elena will remember.** It says how much of the plan has to work before she sees a euro back. Above roughly 80%, you are quietly claiming near-perfect execution — say it out loud before she does.
+**"% of plan" is the number Elena will remember.** It says how much of the plan has to work to recover the launch spending on a contribution basis, not when cash is collected. Above roughly 80%, you are quietly claiming near-perfect execution — say it out loud before she does.
 
 > ⚠ Revenue is not contribution, and neither one is profit. `Σ (volume × ex-cellar)` is revenue. If a slide shows a large number labelled "profit", check which one it really is.
 
