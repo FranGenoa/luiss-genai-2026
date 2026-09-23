@@ -218,15 +218,15 @@ Section 5 says *what* to hand in. This section says what "finished" looks like, 
 
 **Non-negotiable in all three:** the premium holds, every invented number is flagged as an assumption, and all economics trace back to the Data Pack in section 4.
 
-### 9.2 The five numbers Elena will look for
+### 9.2 What Elena expects to see
 
-These have to be in there. If a slide does not eventually lead to one of them, cut the slide.
+Five things have to be in your deck. If a slide does not eventually lead to one of them, cut the slide.
 
 1. **Which wine or wines, through which channel** — one sentence, no hedging.
 2. **Contribution per bottle** for each wine you lead with: ex-cellar price minus variable cost minus the €0.15 export cost. It is the same in every market, because the importer pays freight and taxes.
 3. **Year-1 volume, total contribution, and the net result against the €120,000.**
 4. **Break-even volume**, and how much margin for error that leaves you.
-5. **One early-warning indicator** that would tell Elena it is failing *before* the financials do.
+5. **A strategy pack with your recommendations for Japan.** The moves you would make, in priority order: route to market and the partner you want, pricing and positioning, the story you lead with, the launch activity, and how the €120,000 is split between them. For each one, say why it fits Japan and what Elena has to decide. Close with a clear call: **go, go with conditions, or not yet**, and the conditions.
 
 ### 9.3 Indicative 8-slide deck structure
 
@@ -246,6 +246,8 @@ A shape that works. Not a rule. Adapt it to the Japanese story.
 ### 9.4 An indicative deck is provided
 
 `case_study_helper_info/99_Indicative-Submission_Deck.pptx` is a **market-neutral skeleton** of the eight slides above: the structure and the level of specificity expected, with placeholders where your answer goes. It contains no answers for any market.
+
+The skeleton has no dedicated slide for the strategy pack in 9.2: put it on slide 8, or add one or two slides of your own. You have up to 10.
 
 Use it to calibrate. Do not copy its wording, and do not worry about matching its layout: your deck comes out of Copilot Chat and will look different. You are judged on whether the deck sells the decision, not on how polished it is.
 
