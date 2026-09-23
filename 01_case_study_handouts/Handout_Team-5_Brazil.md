@@ -84,8 +84,6 @@ How you get there is up to you. What you hand in is in section 5.
 * **Import taxes and logistics are brutal.** The Data Pack gives you 55% on landed value plus the highest freight of any market. This can multiply the shelf price, and it is the single most important thing your analysis has to confront. It may well change which wine you lead with.
 * Portuguese back-label required. Import licensing is handled by the importer.
 
-**What Elena would call a win in Year 1.** One São Paulo importer appointed, premium on-trade presence, one e-commerce listing, and a shelf price that still makes sense after the tax stack.
-
 ### 3.1 Three questions Brazil forces you to answer
 
 Not hints, just the questions your pitch has to survive. Answer them with numbers from section 4.

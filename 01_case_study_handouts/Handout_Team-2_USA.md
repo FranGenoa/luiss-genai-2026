@@ -86,8 +86,6 @@ How you get there is up to you. What you hand in is in section 5.
 * TTB **COLA** label approval plus the Surgeon-General warning. The importer handles this.
 * **Tariff status on EU wine is uncertain** and has changed several times since 2025. The Data Pack asks you to model both 0% and 15%. Tell Elena which one you used as your base case and why, and verify the current status before you present either as fact.
 
-**What Elena would call a win in Year 1.** One importer signed, distributors in three states, a 90+ critic score, and 25,000 bottles moving.
-
 ### 3.1 Three questions the USA forces you to answer
 
 Not hints, just the questions your pitch has to survive. Answer them with numbers from section 4.

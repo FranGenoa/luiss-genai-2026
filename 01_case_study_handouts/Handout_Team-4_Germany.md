@@ -85,8 +85,6 @@ How you get there is up to you. What you hand in is in section 5.
 * EU rules, so labelling is straightforward. A German back-label and clear organic labelling help.
 * Organic and sustainability claims must be accurate. Your conversion is in its final year, so say exactly what you can claim today.
 
-**What Elena would call a win in Year 1.** One Fachhandel or Bio specialist importer appointed, an organic-retail listing, and three city on-trade accounts in Berlin, Munich or Hamburg.
-
 ### 3.1 Three questions Germany forces you to answer
 
 Not hints, just the questions your pitch has to survive. Answer them with numbers from section 4.

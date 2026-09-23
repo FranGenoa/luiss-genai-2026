@@ -84,15 +84,13 @@ How you get there is up to you. What you hand in is in section 5.
 * **UK alcohol duty is high and charged per bottle, not as a percentage.** The Data Pack gives you €3.30 per bottle. This squeezes cheaper wines hardest, which should influence which wine you lead with.
 * The importer manages labelling and duty. Allergen and importer details are required.
 
-**What Elena would call a win in Year 1.** Two independent-merchant listings, three London on-trade accounts, and a Decanter review.
-
 ### 3.1 Three questions the UK forces you to answer
 
 Not hints, just the questions your pitch has to survive. Answer them with numbers from section 4.
 
 1. A **flat** €3.30 per bottle lands identically on a €7.50 wine and a €20.00 wine. **What does that do to the relative shelf price of the three wines**, and what does it therefore do to your choice?
 2. English-language marketing makes the UK the fastest market to activate. **Where does that speed show up in the Year-1 numbers**, and does it change what you spend the €120,000 on?
-3. A Decanter review is a Year-1 win condition but not a Year-1 revenue line. **How do you hold Elena's premium while waiting for it**, and what do you do if it never arrives?
+3. A Decanter review carries real weight in the UK, but it brings in no revenue in Year 1. **How do you hold Elena's premium while waiting for one**, and what do you do if it never arrives?
 
 ***
 

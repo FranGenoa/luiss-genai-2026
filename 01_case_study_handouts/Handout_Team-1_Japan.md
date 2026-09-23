@@ -88,8 +88,6 @@ How you get there is up to you. What you hand in is in section 5.
 
 **Who you are up against.** Tuscany is already well represented. Differentiation has to come from somewhere real: organic conversion, the family estate, or a food narrative.
 
-**What Elena would call a win in Year 1.** Two premium on-trade accounts and one department-store gift listing.
-
 ### 3.1 Three questions Japan forces you to answer
 
 Not hints, just the questions your pitch has to survive. Answer them with numbers from section 4.

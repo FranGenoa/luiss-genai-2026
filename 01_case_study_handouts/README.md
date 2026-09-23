@@ -14,7 +14,7 @@ Everything needed to run the workshop is in this folder. Nothing else is require
 
 Each team gets **one file**. It is self-contained — company, CEO brief, Data Pack, that team's
 market pack, cost line, exchange rate and deliverables — and carries **only that market's cost
-line, exchange rate and win conditions**. Upload it straight into Copilot Chat.
+line and exchange rate**. Upload it straight into Copilot Chat.
 
 | Team | Market            | Handout                                                 | What makes this market hard                   |
 | ---- | ----------------- | ------------------------------------------------------- | --------------------------------------------- |
