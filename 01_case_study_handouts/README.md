@@ -21,7 +21,7 @@ line, exchange rate and win conditions**. Upload it straight into Copilot Chat.
 | 1    | 🇯🇵 Japan        | [Handout_Team-1_Japan.md](Handout_Team-1_Japan.md)     | 0% duty (EU–Japan EPA) · €0.45 excise · 10%   |
 | 2    | 🇺🇸 USA          | [Handout_Team-2_USA.md](Handout_Team-2_USA.md)         | **Tariff uncertain:** model 0% and 15%       |
 | 3    | 🇬🇧 UK           | [Handout_Team-3_UK.md](Handout_Team-3_UK.md)           | **€3.30 flat excise per bottle** · 20% VAT    |
-| 4    | 🇩🇪 Germany      | [Handout_Team-4_Germany.md](Handout_Team-4_Germany.md) | 0% · **incremental vs. 15,000 btl baseline**  |
+| 4    | 🇩🇪 Germany      | [Handout_Team-4_Germany.md](Handout_Team-4_Germany.md) | 0% · **lowest ladder** · discounters · organic |
 | 5    | 🇧🇷 Brazil       | [Handout_Team-5_Brazil.md](Handout_Team-5_Brazil.md)   | **55% of landed value** · highest freight     |
 
 ## Shared by every team
@@ -64,9 +64,8 @@ economics trace back to the Data Pack in section 4 of your handout.
   a single upload gives Copilot full context. Teams should keep one chat open all afternoon.
 * **Section 3.1 of each handout** ("Three questions your market forces you to answer") is
   **question-shaped on purpose** — it points at the trap in that market without solving it.
-* **Teams 4 and 5 get an extra ⚠ instruction** in section 8, because their markets break the
-  default assumptions of the Prompting Guide (Germany: a non-zero baseline; Brazil: order of
-  operations on a 55% tax stack).
+* **Team 5 (Brazil) gets an extra ⚠ instruction** in section 8, because the order of operations
+  on a 55% tax stack breaks a default assumption of the Prompting Guide.
 * **The markets are not equally winnable, on purpose.** Brazil's tax stack and the UK's flat excise
   are designed to force a different answer from the obvious one. Teams that notice this and say so
   are doing the exercise correctly.

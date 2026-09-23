@@ -36,7 +36,7 @@ Tool for today: **Microsoft 365 Copilot Chat** at `https://m365.cloud.microsoft/
 
 **Story assets:** 70+ years of family heritage · restored 16th-century farmhouse · 8-room agriturismo · \~4,000 wine-tourism visitors per year · hand-harvest · native yeasts on the top wines · organic conversion.
 
-**Current sales mix (by volume):** Italy 55% (HoReCa and enoteche) · Europe 30% (Germany, Switzerland, Benelux) · Rest of world 15% (one-off containers to the US and Asia through traders, with no ongoing importer).
+**Current sales mix (by volume):** Italy 55% (HoReCa and enoteche) · Europe 30% (Switzerland, Austria, Benelux) · Rest of world 15% (one-off containers to the US and Asia through traders, with no ongoing importer).
 
 **The situation:** domestic growth has plateaued. The family has decided to invest in **one priority export market** and build it properly, rather than scattering samples everywhere. Corte Aurelia has no market-specific packaging, no localized marketing, no in-market PR and no critic ratings in that market.
 

@@ -28,6 +28,5 @@ to work*. Where the guides refer to something in the brief, they point at a sect
 
 * **Upload your handout, not these files.** One upload gives Copilot the whole brief. Keep the
   same chat open all afternoon — a new chat forgets everything.
-* **Teams 4 and 5 have an extra instruction** in section 8 of their handout, because Germany
-  (non-zero baseline) and Brazil (55% on landed value, order of operations) break assumptions the
-  Prompting Guide makes by default. Apply it in your very first prompt.
+* **Team 5 (Brazil) has an extra instruction** in section 8 of its handout, because the 55% on
+  landed value makes the order of operations easy to get wrong. Apply it in your very first prompt.

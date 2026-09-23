@@ -65,7 +65,7 @@ Every prompt below is a starting point, not a script. **The teams that edit thes
 
 Open `https://m365.cloud.microsoft/chat`. **Upload your team handout** — the single `Handout_Team-N_<Market>.md` file. It already contains the brief, the Data Pack and your market pack, so one upload is enough. Then send this first:
 
-> ⚠ **Check section 8 of your handout before you send anything.** Teams 4 (Germany) and 5 (Brazil) have an extra instruction there, because their markets break an assumption this guide makes by default. Fold it into Prompt 1.
+> ⚠ **Check section 8 of your handout before you send anything.** Team 5 (Brazil) has an extra instruction there, because its tax stack breaks an assumption this guide makes by default. Fold it into Prompt 1.
 
 ### Prompt 1 · Context and read-back
 

@@ -9,8 +9,6 @@ subtitle: "Wine Business Program 2026 · LUISS / Italia del Vino · GenAI Worksh
 Tool for today: **Microsoft 365 Copilot Chat** at `https://m365.cloud.microsoft/chat`
 
 > **This handout is self-contained.** The company, the CEO's brief, your market and *your* cost line are all in here. Everything else you need is in the **`case_study_helper_info`** folder next to this file: the Prompting Guide (read it before you start), the rescue guide, and the indicative deck.
->
-> ⚠ **Your task is different from every other team's.** Read section 3 before section 4. You are not entering a market from zero — you are taking one back.
 
 ***
 
@@ -38,7 +36,7 @@ Tool for today: **Microsoft 365 Copilot Chat** at `https://m365.cloud.microsoft/
 
 **Story assets:** 70+ years of family heritage · restored 16th-century farmhouse · 8-room agriturismo · \~4,000 wine-tourism visitors per year · hand-harvest · native yeasts on the top wines · organic conversion.
 
-**Current sales mix (by volume):** Italy 55% (HoReCa and enoteche) · Europe 30% (Germany, Switzerland, Benelux) · Rest of world 15% (one-off containers to the US and Asia through traders, with no ongoing importer).
+**Current sales mix (by volume):** Italy 55% (HoReCa and enoteche) · Europe 30% (Switzerland, Austria, Benelux) · Rest of world 15% (one-off containers to the US and Asia through traders, with no ongoing importer).
 
 **The situation:** domestic growth has plateaued. The family has decided to invest in **one priority export market** and build it properly, rather than scattering samples everywhere. Corte Aurelia has no market-specific packaging, no localized marketing, no in-market PR and no critic ratings in that market.
 
@@ -68,7 +66,7 @@ How you get there is up to you. What you hand in is in section 5.
 
 ## 3. Your market: GERMANY 🇩🇪
 
-**Why Germany.** Your task here is different from everyone else's. Corte Aurelia **already sells roughly 15,000 bottles of Annata a year in Germany through a broker**, at €6.60 a bottle (12% below our €7.50 list price) and with no control over where it ends up. You are not entering a market, you are **taking one back and premiumizing it**. Germany is Europe's largest wine importer by volume, the organic "Bio" segment is huge and trusted, and EU logistics mean no tariffs and no customs friction.
+**Why Germany.** Europe's largest wine importer by volume, and on your doorstep: EU logistics mean no tariffs and no customs friction. The organic "Bio" segment is huge and trusted, and a serious quality segment sits right next to Europe's toughest discount retail, which is exactly why the premium is hard to hold.
 
 **How the market works**
 
@@ -85,17 +83,17 @@ How you get there is up to you. What you hand in is in section 5.
 **Constraints**
 
 * EU rules, so labelling is straightforward. A German back-label and clear organic labelling help.
-* **The existing broker relationship is the awkward part.** Moving away from it has a cost and a risk. Deal with it honestly.
+* Organic and sustainability claims must be accurate. Your conversion is in its final year, so say exactly what you can claim today.
 
-**What Elena would call a win in Year 1.** A dedicated Fachhandel or Bio importer replacing the broker, volume roughly doubled to **30,000 bottles with no discounting**, and an organic-retail listing.
+**What Elena would call a win in Year 1.** One Fachhandel or Bio specialist importer appointed, an organic-retail listing, and three city on-trade accounts in Berlin, Munich or Hamburg.
 
 ### 3.1 Three questions Germany forces you to answer
 
 Not hints, just the questions your pitch has to survive. Answer them with numbers from section 4.
 
-1. Your €120,000 has to be justified against the €33,750 a year you are **already** earning (section 4.7), not against zero. **What is the *incremental* return** once you count only the contribution above that baseline?
-2. Germany has the lowest cost line of any market on the list. **Where does that saving go** — into your margin, into the importer's, or into the shelf price? Only one of those protects the premium.
-3. Breaking the broker relationship has a cost and a risk you have to name. **What happens to the existing 15,000 bottles during the switch**, and what is your plan if some of them simply disappear?
+1. Germany has the lowest price-ladder inputs of any market on the list: no duty, no excise, the cheapest freight. **Where does that advantage actually land?** In your margin, in the importer's, or on the shelf price? And is a cheaper shelf price good news for a premium wine?
+2. Fachhandel, Bio retail and city on-trade are three different buyers with three different price logics. **Are you building one plan or three**, and can the stock available in section 4.2 support them?
+3. Discounters own the value end and established Italian importers own the middle. **Which of your wines can stand next to them at its shelf price**, and in which channel?
 
 ***
 
@@ -129,8 +127,6 @@ These are Corte Aurelia's internal planning figures, agreed with the CFO. **Use 
 | Riserva        | 12,000 btl          |
 | Gran Selezione | 4,000 btl           |
 
-*The \~15,000 Annata bottles you already ship through the broker (section 4.7) are extra: they are not part of this table.*
-
 ### 4.3 Your market's price-ladder inputs: GERMANY
 
 Figures are per bottle unless stated. **None of these is the estate's cost.** Under our terms the importer pays freight, duty and excise and passes them down the chain, so they do not reduce your contribution per bottle. They decide the shelf price.
@@ -161,20 +157,7 @@ Figures are per bottle unless stated. **None of these is the estate's cost.** Un
 
 One quality importer appointed · **25,000 bottles sold in Year 1** · 60,000 by Year 3 · premium positioning protected.
 
-> ⚠ **Read this against your starting point.** You already ship roughly **15,000 bottles a year** through the broker, and Elena's Year-1 win condition for Germany is **30,000 bottles with no discounting**. Your **€120,000 has to be justified against the contribution you are already earning (€33,750 a year, section 4.7), not against zero.** A plan that reaches 25,000 bottles is not automatically a success here — say what the incremental contribution is, and be explicit about which bottles are new.
-
 *These are Elena's targets, not facts. If your analysis says they are wrong for Germany, say so and show her why.*
-
-### 4.7 Today's broker business: your baseline
-
-| Item                                            | Figure                               |
-| ----------------------------------------------- | ------------------------------------ |
-| Volume                                          | **\~15,000 btl a year, all Annata**  |
-| Price the broker pays us                        | **€6.60** (12% below the €7.50 list) |
-| Contribution per bottle (€6.60 − €4.20 − €0.15) | **€2.25**                            |
-| Annual contribution today                       | **€33,750**                          |
-
-*This is what you already earn. Your €120,000 has to be justified by the contribution **above** €33,750, not by the total.*
 
 ***
 
@@ -216,8 +199,6 @@ Two supporting guides sit in the **`case_study_helper_info`** folder next to thi
 
 **Setting up the session:** upload *this handout* to Copilot Chat. It contains the brief and the Germany market pack in one file, so one upload is enough. Wherever the Prompting Guide says *"\[YOUR MARKET]"*, write **Germany**. Wherever it says *"your Market Card"*, it means **section 3 of this handout**.
 
-> ⚠ **One extra instruction for your team.** The Prompting Guide is written for a market-entry-from-zero case. Tell Copilot explicitly, in your first prompt, that Germany already generates roughly 15,000 bottles of Annata a year through a broker at €6.60, worth €33,750 in contribution (section 4.7), and that you need **incremental** contribution against that baseline. It will not work this out on its own, and every number after it will be wrong if you skip it.
-
 ***
 
 ## 9. Final deliverables
@@ -240,21 +221,21 @@ These have to be in there. If a slide does not eventually lead to one of them, c
 
 1. **Which wine or wines, through which channel** — one sentence, no hedging.
 2. **Contribution per bottle** for each wine you lead with: ex-cellar price minus variable cost minus the €0.15 export cost. It is the same in every market, because the importer pays freight and taxes.
-3. **Year-1 volume, total contribution, and the net result against the €120,000** — stated as **incremental** over today's broker business.
+3. **Year-1 volume, total contribution, and the net result against the €120,000.**
 4. **Break-even volume**, and how much margin for error that leaves you.
 5. **One early-warning indicator** that would tell Elena it is failing *before* the financials do.
 
 ### 9.3 Indicative 8-slide deck structure
 
-A shape that works. Not a rule. Adapt it to the German story — and note that your slide 2 is a genuinely different argument from everyone else's.
+A shape that works. Not a rule. Adapt it to the German story.
 
 | Slide | Working title                                | What it has to do                                                                                                                                       |
 | ----- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | **The recommendation**                       | Market, wine, channel, and three headline numbers (volume, ROI, break-even). The whole answer, up front                                                 |
-| 2     | **Keeping the broker, and why we rejected it** | The do-nothing option *is* the tempting option here. Let the numbers kill it                                                                          |
+| 2     | **The obvious plan, and why we rejected it** | Show the tempting option and let the numbers kill it. This is where you earn credibility                                                                |
 | 3     | **What the market pays for a bottle**        | The price ladder: ex-cellar → freight → importer → distributor → retail → VAT. Finish on the shelf price in **€**                                       |
-| 4     | **The Year-1 plan**                          | Wine × volume × channel × contribution, with totals and the **incremental** net against €120,000                                                        |
-| 5     | **Scenarios**                                | Downside, base, upside. Say what breaks in the downside — including losing broker volume during the switch                                              |
+| 4     | **The Year-1 plan**                          | Wine × volume × channel × contribution, with totals and the net against €120,000                                                                        |
+| 5     | **Scenarios**                                | Downside, base, upside. Say what breaks in the downside and what actually limits the upside                                                             |
 | 6     | **How Elena will know it is working**        | Your indicators, with targets, review rhythm, and the action if each one misses                                                                         |
 | 7     | **The positioning visual**                   | Your generated image, plus one line on why it works in Germany                                                                                          |
 | 8     | **The ask**                                  | What you need signed off, the 12-month gates, and the one point of failure you are flagging honestly                                                    |

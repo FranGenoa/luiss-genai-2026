@@ -85,7 +85,7 @@ hours, in a single Copilot conversation, ending in a live pitch.
 ├── Handout_Team-1_Japan.md            🇯🇵  0% duty (EU–Japan EPA)
 ├── Handout_Team-2_USA.md              🇺🇸  three-tier system, tariff 0% or 15%
 ├── Handout_Team-3_UK.md               🇬🇧  €3.30 flat excise per bottle
-├── Handout_Team-4_Germany.md          🇩🇪  existing broker, incremental ROI
+├── Handout_Team-4_Germany.md          🇩🇪  lowest price ladder, organic claim
 ├── Handout_Team-5_Brazil.md           🇧🇷  55% of landed value
 └── case_study_helper_info/
     ├── README.md

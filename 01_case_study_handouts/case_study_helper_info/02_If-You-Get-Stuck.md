@@ -150,8 +150,6 @@ break-even          = €120,000 ÷ blended CM
 
 **Do not subtract freight.** Under our terms the importer pays freight, duty and excise (section 4.3 of your handout), so they belong in the price ladder, not in your contribution. If you want to argue for a different arrangement, write it down as an assumption and say it in the pitch.
 
-> ⚠ **Team 4 (Germany), one extra rule.** Your break-even is not measured against zero. You already ship roughly 15,000 bottles a year through the broker, so what matters is the **incremental** contribution the €120,000 buys. The baseline is 15,000 bottles of Annata at €6.60, worth €33,750 a year (section 4.7 of your handout). Recalculate on that basis or your ROI is fiction.
-
 ***
 
 ## Rescue plans
