@@ -16,21 +16,21 @@ Each team gets **one file**. It is self-contained — company, CEO brief, Data P
 market pack, cost line, exchange rate and deliverables — and carries **only that market's cost
 line and exchange rate**. Upload it straight into Copilot Chat.
 
-| Team | Market            | Handout                                                 | What makes this market hard                   |
-| ---- | ----------------- | ------------------------------------------------------- | --------------------------------------------- |
-| 1    | 🇯🇵 Japan        | [Handout_Team-1_Japan.md](Handout_Team-1_Japan.md)     | 0% duty (EU–Japan EPA) · €0.45 excise · 10%   |
-| 2    | 🇺🇸 USA          | [Handout_Team-2_USA.md](Handout_Team-2_USA.md)         | **Tariff uncertain:** model 0% and 15%       |
-| 3    | 🇬🇧 UK           | [Handout_Team-3_UK.md](Handout_Team-3_UK.md)           | **€3.30 flat excise per bottle** · 20% VAT    |
-| 4    | 🇩🇪 Germany      | [Handout_Team-4_Germany.md](Handout_Team-4_Germany.md) | 0% · **lowest ladder** · discounters · organic |
-| 5    | 🇧🇷 Brazil       | [Handout_Team-5_Brazil.md](Handout_Team-5_Brazil.md)   | **55% of landed value** · highest freight     |
+| Team | Market            | Handout                                                 | PDF  | What makes this market hard                   |
+| ---- | ----------------- | ------------------------------------------------------- | ----- | --------------------------------------------- |
+| 1    | 🇯🇵 Japan        | [Handout_Team-1_Japan.md](Handout_Team-1_Japan.md)     | [PDF](Handout_Team-1_Japan.pdf) | 0% duty (EU–Japan EPA) · €0.45 excise · 10%   |
+| 2    | 🇺🇸 USA          | [Handout_Team-2_USA.md](Handout_Team-2_USA.md)         | [PDF](Handout_Team-2_USA.pdf) | **Tariff uncertain:** model 0% and 15%       |
+| 3    | 🇬🇧 UK           | [Handout_Team-3_UK.md](Handout_Team-3_UK.md)           | [PDF](Handout_Team-3_UK.pdf) | **€3.30 flat excise per bottle** · 20% VAT    |
+| 4    | 🇩🇪 Germany      | [Handout_Team-4_Germany.md](Handout_Team-4_Germany.md) | [PDF](Handout_Team-4_Germany.pdf) | 0% · **lowest ladder** · discounters · organic |
+| 5    | 🇧🇷 Brazil       | [Handout_Team-5_Brazil.md](Handout_Team-5_Brazil.md)   | [PDF](Handout_Team-5_Brazil.pdf) | **55% of landed value** · highest freight     |
 
 ## Shared by every team
 
 [`case_study_helper_info/`](case_study_helper_info/README.md) — the same three files for everyone:
 
-* **`01_Prompting-Guide.md`** — the afternoon as a sequence: 7 phases, 16 starter prompts, in the
+* **`01_Prompting-Guide.md`** ([PDF](case_study_helper_info/01_Prompting-Guide.pdf)) — the afternoon as a sequence: 7 phases, 16 starter prompts, in the
   order that works. **Read this before you start.**
-* **`02_If-You-Get-Stuck.md`** — five-question rescue method, the three core calculations
+* **`02_If-You-Get-Stuck.md`** ([PDF](case_study_helper_info/02_If-You-Get-Stuck.pdf)) — five-question rescue method, the three core calculations
   (contribution, price ladder, Year-1 total) written out step by step, and a
   30-minutes-left emergency plan.
 * **`99_Indicative-Submission_Deck.pptx`** — market-neutral 8-slide skeleton. No answers in it.

@@ -16,21 +16,21 @@ Ogni team riceve **un solo file**. È autosufficiente (azienda, brief della CEO,
 mercato del team, voce di costo, tasso di cambio e consegne) e contiene **solo la voce di costo e il
 tasso di cambio di quel mercato**. Caricatelo direttamente in Copilot Chat.
 
-| Team | Mercato           | Dispensa                                                | Cosa rende difficile questo mercato                        |
-| ---- | ----------------- | ------------------------------------------------------- | ---------------------------------------------------------- |
-| 1    | 🇯🇵 Giappone     | [Handout_Team-1_Japan.md](Handout_Team-1_Japan.md)     | 0% di dazio (EPA UE–Giappone) · accisa €0,45 · 10%         |
-| 2    | 🇺🇸 USA          | [Handout_Team-2_USA.md](Handout_Team-2_USA.md)         | **Dazio incerto:** modellate lo 0% e il 15%                |
-| 3    | 🇬🇧 Regno Unito  | [Handout_Team-3_UK.md](Handout_Team-3_UK.md)           | **Accisa fissa di €3,30 a bottiglia** · IVA 20%            |
-| 4    | 🇩🇪 Germania     | [Handout_Team-4_Germany.md](Handout_Team-4_Germany.md) | 0% · **scala prezzi più bassa** · discount · biologico     |
-| 5    | 🇧🇷 Brasile      | [Handout_Team-5_Brazil.md](Handout_Team-5_Brazil.md)   | **55% del valore sbarcato (landed value)** · trasporto più caro |
+| Team | Mercato           | Dispensa                                                | PDF  | Cosa rende difficile questo mercato                        |
+| ---- | ----------------- | ------------------------------------------------------- | ----- | ---------------------------------------------------------- |
+| 1    | 🇯🇵 Giappone     | [Handout_Team-1_Japan.md](Handout_Team-1_Japan.md)     | [PDF](Handout_Team-1_Japan.pdf) | 0% di dazio (EPA UE–Giappone) · accisa €0,45 · 10%         |
+| 2    | 🇺🇸 USA          | [Handout_Team-2_USA.md](Handout_Team-2_USA.md)         | [PDF](Handout_Team-2_USA.pdf) | **Dazio incerto:** modellate lo 0% e il 15%                |
+| 3    | 🇬🇧 Regno Unito  | [Handout_Team-3_UK.md](Handout_Team-3_UK.md)           | [PDF](Handout_Team-3_UK.pdf) | **Accisa fissa di €3,30 a bottiglia** · IVA 20%            |
+| 4    | 🇩🇪 Germania     | [Handout_Team-4_Germany.md](Handout_Team-4_Germany.md) | [PDF](Handout_Team-4_Germany.pdf) | 0% · **scala prezzi più bassa** · discount · biologico     |
+| 5    | 🇧🇷 Brasile      | [Handout_Team-5_Brazil.md](Handout_Team-5_Brazil.md)   | [PDF](Handout_Team-5_Brazil.pdf) | **55% del valore sbarcato (landed value)** · trasporto più caro |
 
 ## Comune a tutti i team
 
 [`case_study_helper_info/`](case_study_helper_info/README.md): gli stessi tre file per tutti.
 
-* **`01_Prompting-Guide.md`**: il pomeriggio come sequenza: 7 fasi, 16 prompt di partenza,
+* **`01_Prompting-Guide.md`** ([PDF](case_study_helper_info/01_Prompting-Guide.pdf)): il pomeriggio come sequenza: 7 fasi, 16 prompt di partenza,
   nell'ordine che funziona. **Leggetela prima di iniziare.**
-* **`02_If-You-Get-Stuck.md`**: metodo di emergenza in cinque domande, i tre calcoli fondamentali
+* **`02_If-You-Get-Stuck.md`** ([PDF](case_study_helper_info/02_If-You-Get-Stuck.pdf)): metodo di emergenza in cinque domande, i tre calcoli fondamentali
   (margine di contribuzione, scala prezzi, totale dell'Anno 1) spiegati passo per passo e un
   piano d'emergenza per quando mancano 30 minuti.
 * **`99_Indicative-Submission_Deck.pptx`**: struttura di 8 slide, neutra rispetto al mercato. Non contiene risposte.

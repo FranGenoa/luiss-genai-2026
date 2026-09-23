@@ -92,7 +92,7 @@ Il file si trova nella cartella `data/esercizio_03_dati` accanto a
 questa guida:
 
 ```text
-00_excercise/data/esercizio_03_dati/vini_italiani_recensioni.csv
+00_exercise/data/esercizio_03_dati/vini_italiani_recensioni.csv
 ```
 
 1. Aprite la cartella `data/esercizio_03_dati` del repository del corso.

@@ -7,12 +7,15 @@ The day has two distinct halves, and they work very differently.
 
 | Folder                           | What it is                                | Format                        | When                        |
 | -------------------------------- | ----------------------------------------- | ----------------------------- | --------------------------- |
-| [`00_excercise/`](00_excercise/) | Three short, standalone AI exercises      | 10-15 minutes each, individually | **During** the presentation |
-| [`01_case_study_handouts/`](01_case_study_handouts/) | One long team case study | ~2 hours, five teams          | After the presentation      |
+| [`00_exercise/`](00_exercise/) | Three short, standalone AI exercises      | 10-15 minutes each, individually | **During** the presentation |
+| [`01_case_study_handouts/`](01_case_study_handouts/) | One long team case study (English) | ~2 hours, five teams          | After the presentation      |
+| [`02_case_study_handouts_ita/`](02_case_study_handouts_ita/) | The same case study in Italian | ~2 hours, five teams          | After the presentation      |
+
+Every guide and handout is provided as `.md` and as a print-ready `.pdf` with the same name, in the same folder.
 
 ***
 
-## `00_excercise/` — live exercises during the presentation
+## `00_exercise/` — live exercises during the presentation
 
 Three **independent** exercises, run one at a time as the lecture reaches the
 relevant topic. Each is self-contained: they share no state, no chat history
@@ -25,11 +28,11 @@ the source. The verification is not delegated to anyone else.
 All three use **GPT-5.6-Think** in Copilot Chat Basic. No extra subscription,
 no Excel, no PowerPoint, no coding tools.
 
-| # | Guide                                                                                                                                | Topic                                       | Inputs                                       |
-| - | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- | -------------------------------------------- |
-| 1 | [Esercizio_01_Italia_AI_Guida_studenti.md](00_excercise/Esercizio_01_Italia_AI_Guida_studenti.md)                                   | From charts to an executive summary         | 3 PNG screenshots (2 required, 1 optional)   |
-| 2 | [Esercizio_02_ROCCA_Confronto_Critica_Guida_studenti.md](00_excercise/Esercizio_02_ROCCA_Confronto_Critica_Guida_studenti.md)       | Generic prompt vs. ROCCA brief vs. critique | None — three prompts in the guide            |
-| 3 | [Esercizio_03_Dati_Dashboard_Presentazione_Guida_studenti.md](00_excercise/Esercizio_03_Dati_Dashboard_Presentazione_Guida_studenti.md) | Raw CSV → analysis → dashboard → slides     | 1 CSV, 1,500 Italian wine reviews            |
+| # | Guide                                                                                                                                | PDF                                                                                        | Topic                                       | Inputs                                       |
+| - | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------- | -------------------------------------------- |
+| 1 | [Esercizio_01_Italia_AI_Guida_studenti.md](00_exercise/Esercizio_01_Italia_AI_Guida_studenti.md)                                   | [PDF](00_exercise/Esercizio_01_Italia_AI_Guida_studenti.pdf)                               | From charts to an executive summary         | 3 PNG screenshots (2 required, 1 optional)   |
+| 2 | [Esercizio_02_ROCCA_Confronto_Critica_Guida_studenti.md](00_exercise/Esercizio_02_ROCCA_Confronto_Critica_Guida_studenti.md)       | [PDF](00_exercise/Esercizio_02_ROCCA_Confronto_Critica_Guida_studenti.pdf)                 | Generic prompt vs. ROCCA brief vs. critique | None — three prompts in the guide            |
+| 3 | [Esercizio_03_Dati_Dashboard_Presentazione_Guida_studenti.md](00_exercise/Esercizio_03_Dati_Dashboard_Presentazione_Guida_studenti.md) | [PDF](00_exercise/Esercizio_03_Dati_Dashboard_Presentazione_Guida_studenti.pdf)            | Raw CSV → analysis → dashboard → slides     | 1 CSV, 1,500 Italian wine reviews            |
 
 **What each one actually teaches**
 
@@ -48,7 +51,7 @@ no Excel, no PowerPoint, no coding tools.
 ### Attachments
 
 ```
-00_excercise/data/
+00_exercise/data/
 ├── README.md                         index of what belongs to which exercise
 ├── esercizio_01_dati/
 │   ├── README.md                     what each screenshot shows, and its limits
@@ -82,17 +85,21 @@ hours, in a single Copilot conversation, ending in a live pitch.
 ```
 01_case_study_handouts/
 ├── README.md                          workshop landing page + facilitator notes
-├── Handout_Team-1_Japan.md            🇯🇵  0% duty (EU–Japan EPA)
-├── Handout_Team-2_USA.md              🇺🇸  three-tier system, tariff 0% or 15%
-├── Handout_Team-3_UK.md               🇬🇧  €3.30 flat excise per bottle
-├── Handout_Team-4_Germany.md          🇩🇪  lowest price ladder, organic claim
-├── Handout_Team-5_Brazil.md           🇧🇷  55% of landed value
+├── Handout_Team-1_Japan.md / .pdf     🇯🇵  0% duty (EU–Japan EPA)
+├── Handout_Team-2_USA.md / .pdf       🇺🇸  three-tier system, tariff 0% or 15%
+├── Handout_Team-3_UK.md / .pdf        🇬🇧  €3.30 flat excise per bottle
+├── Handout_Team-4_Germany.md / .pdf   🇩🇪  lowest price ladder, organic claim
+├── Handout_Team-5_Brazil.md / .pdf    🇧🇷  55% of landed value
 └── case_study_helper_info/
     ├── README.md
-    ├── 01_Prompting-Guide.md          7 phases, 16 starter prompts, in order
-    ├── 02_If-You-Get-Stuck.md         rescue method + the three core calculations
+    ├── 01_Prompting-Guide.md / .pdf   7 phases, 16 starter prompts, in order
+    ├── 02_If-You-Get-Stuck.md / .pdf  rescue method + the three core calculations
     └── 99_Indicative-Submission_Deck.pptx   market-neutral 8-slide skeleton
 ```
+
+[`02_case_study_handouts_ita/`](02_case_study_handouts_ita/) has the identical structure and
+file names, with every document (including the deck) translated into Italian. Figures are
+unchanged and written in Italian number format.
 
 **One handout per team, and it is self-contained** — company, CEO brief, Data
 Pack, that team's market pack, cost line, exchange rate and deliverables in a

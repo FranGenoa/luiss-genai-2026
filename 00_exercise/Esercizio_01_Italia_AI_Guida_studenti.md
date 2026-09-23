@@ -98,9 +98,9 @@ visitare il sito durante l'esercizio.
 Si trovano nella cartella `data/esercizio_01_dati` accanto a questa guida:
 
 ```text
-00_excercise/data/esercizio_01_dati/01_italia_panoramica_e_attivita.png
-00_excercise/data/esercizio_01_dati/02_italia_most_distinctive.png
-00_excercise/data/esercizio_01_dati/03_francia_confronto_facoltativo.png
+00_exercise/data/esercizio_01_dati/01_italia_panoramica_e_attivita.png
+00_exercise/data/esercizio_01_dati/02_italia_most_distinctive.png
+00_exercise/data/esercizio_01_dati/03_francia_confronto_facoltativo.png
 ```
 
 1. Aprite la cartella `data/esercizio_01_dati` del repository del corso.

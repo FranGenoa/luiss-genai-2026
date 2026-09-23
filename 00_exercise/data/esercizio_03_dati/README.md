@@ -70,7 +70,7 @@ dal nome del vino, esegue un campionamento stratificato per regione e
 aggiunge le colonne derivate.
 
 ```bash
-cd 00_excercise/data/esercizio_03_dati
+cd 00_exercise/data/esercizio_03_dati
 python _build_dataset.py
 ```
 

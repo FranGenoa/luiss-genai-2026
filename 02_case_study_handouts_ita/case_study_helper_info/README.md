@@ -5,8 +5,8 @@ specifico del mercato si trova nella vostra dispensa, una cartella più su.
 
 | File                                                               | Cos'è                                                                                    | Quando aprirlo                                      |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [01_Prompting-Guide.md](01_Prompting-Guide.md)                     | Il pomeriggio come sequenza: 7 fasi, 16 prompt di partenza, nell'ordine che funziona      | **Prima di iniziare.** Leggetela per prima.         |
-| [02_If-You-Get-Stuck.md](02_If-You-Get-Stuck.md)                   | Metodo di emergenza in cinque domande, i tre calcoli spiegati, sei piani di emergenza     | Quando vi bloccate o i numeri non tornano           |
+| [01_Prompting-Guide.md](01_Prompting-Guide.md) · [PDF](01_Prompting-Guide.pdf) | Il pomeriggio come sequenza: 7 fasi, 16 prompt di partenza, nell'ordine che funziona      | **Prima di iniziare.** Leggetela per prima.         |
+| [02_If-You-Get-Stuck.md](02_If-You-Get-Stuck.md) · [PDF](02_If-You-Get-Stuck.pdf) | Metodo di emergenza in cinque domande, i tre calcoli spiegati, sei piani di emergenza     | Quando vi bloccate o i numeri non tornano           |
 | `99_Indicative-Submission_Deck.pptx`                               | Struttura di 8 slide neutra rispetto al mercato: struttura e livello di dettaglio attesi | Quando iniziate a costruire la presentazione        |
 
 ## Come si collegano alla vostra dispensa

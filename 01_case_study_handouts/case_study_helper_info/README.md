@@ -5,8 +5,8 @@ market-specific lives in your own handout, one folder up.
 
 | File                                                               | What it is                                                                       | When to open it                          |
 | ------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ---------------------------------------- |
-| [01_Prompting-Guide.md](01_Prompting-Guide.md)                     | The afternoon as a sequence: 7 phases, 16 starter prompts, in the order that works | **Before you start.** Read it first.     |
-| [02_If-You-Get-Stuck.md](02_If-You-Get-Stuck.md)                   | Five-question rescue method, the three calculations written out, six rescue plans  | When you stall, or the numbers won't add up |
+| [01_Prompting-Guide.md](01_Prompting-Guide.md) · [PDF](01_Prompting-Guide.pdf) | The afternoon as a sequence: 7 phases, 16 starter prompts, in the order that works | **Before you start.** Read it first.     |
+| [02_If-You-Get-Stuck.md](02_If-You-Get-Stuck.md) · [PDF](02_If-You-Get-Stuck.pdf) | Five-question rescue method, the three calculations written out, six rescue plans  | When you stall, or the numbers won't add up |
 | `99_Indicative-Submission_Deck.pptx`                               | Market-neutral 8-slide skeleton — structure and level of detail expected           | When you start building the deck         |
 
 ## How these relate to your handout
