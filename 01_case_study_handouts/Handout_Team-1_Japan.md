@@ -128,6 +128,8 @@ These are Corte Aurelia's internal planning figures, agreed with the CFO. **Use 
 | Riserva        | 12,000 btl          |
 | Gran Selezione | 4,000 btl           |
 
+*These are supply limits, not sales forecasts. We earn contribution only on bottles the importer actually buys, and an importer buys only what it believes it can sell at full price. Management's expectation of Year-1 demand is set out in section 4.6. Whether your market can really absorb that volume, and in which wines, is your assumption to make and defend. Bottles the new market does not take stay with our Italian customers.*
+
 ### 4.3 Your market's price-ladder inputs: JAPAN
 
 Figures are per bottle unless stated. **None of these is the estate's cost.** Under our terms the importer pays freight, duty and excise and passes them down the chain, so they do not reduce your contribution per bottle. They decide the shelf price.
@@ -158,7 +160,7 @@ Figures are per bottle unless stated. **None of these is the estate's cost.** Un
 
 One quality importer appointed · **25,000 bottles sold in Year 1** · 60,000 by Year 3 · premium positioning protected.
 
-*These are Elena's targets, not facts. If your analysis says they are wrong for Japan, say so and show her why.*
+*The 25,000 bottles is management's view of what the market could absorb in Year 1, not a stock figure. These are Elena's targets, not facts. If your analysis says they are wrong for Japan, say so and show her why.*
 
 ***
 
